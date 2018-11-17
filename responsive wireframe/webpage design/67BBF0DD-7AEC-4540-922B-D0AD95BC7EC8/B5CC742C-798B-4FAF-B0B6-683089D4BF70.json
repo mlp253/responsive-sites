@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5CC742C-798B-4FAF-B0B6-683089D4BF70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46697B39-E176-40F3-ADC7-9E60CDB0B16A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37ADAF04-627B-447A-92DA-91E53A5CF7A0",
+    "height": 361,
+    "width": 362,
+    "x": 136,
+    "y": 563
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE :  pitcureIMAGE BOX Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "641066EB-DAF5-46E1-B6DD-0EC182617615",
+      "overrideName": "749EC115-797C-4433-B16D-258EDCE28749_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0923d00cb6ac378dc16e5abdddbce4c1fd78574d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0DCF599-53C5-4F66-A11F-C2266A9284FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB032306-B93F-40CA-AC55-B81DB461DBE7",
+  "verticalSpacing": 0
+}

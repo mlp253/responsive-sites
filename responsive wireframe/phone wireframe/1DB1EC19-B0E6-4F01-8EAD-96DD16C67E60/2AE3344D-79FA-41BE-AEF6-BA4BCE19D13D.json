@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AE3344D-79FA-41BE-AEF6-BA4BCE19D13D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E3A28F4-D12D-4BA9-8D70-26D664BB64B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DF119EB-8122-4861-90AF-99BA2E9F7FB2",
+    "height": 18,
+    "width": 18,
+    "x": 40,
+    "y": 771
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : SOCIAL ICON Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EF31F76-6A5F-4D22-8D04-3A04AE37476A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "81270B84-85C6-4E2C-969D-FCFE472BBFA0",
+  "verticalSpacing": 0
+}

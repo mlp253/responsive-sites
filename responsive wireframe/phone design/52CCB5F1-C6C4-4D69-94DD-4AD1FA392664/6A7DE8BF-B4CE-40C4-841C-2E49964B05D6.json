@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A7DE8BF-B4CE-40C4-841C-2E49964B05D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F9CBCC1-709D-49BF-B0D4-33C2B827F8F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "037BFB0F-F920-4F63-8AB2-84F8834431C1",
+    "height": 18,
+    "width": 320,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : PAGE TITLE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63A4CC88-C3A7-422B-92F8-418C32E75518",
+      "overrideName": "DEEB6527-28BA-4E76-A6AE-75CDFB26A77D_stringValue",
+      "value": "BFA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "444B3BBB-EE4D-4ED4-A33F-971B67F45809",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ACD2E9E0-2194-4FF6-9EDF-A8FB36C6E897",
+  "verticalSpacing": 0
+}

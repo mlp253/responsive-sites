@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F6AC4833-1053-4064-88CA-CF4DFAA9527E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43584141-3CAC-45CE-9DCB-7BEB116DE13E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84ACF2F3-19FF-4D26-9796-3FE0C728725B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04811660-B154-47E5-9916-2F1414E68956",
+    "height": 1820.871661299933,
+    "width": 1440,
+    "x": -1581,
+    "y": 1648.252373054179
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24B04064-4E7E-4DCE-A785-85C9A84F9695",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E211A067-7042-4EEF-9DE7-DDE250012397"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0C909B9-B70B-4E81-8CD2-B15406860916"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECFBAB2E-7456-4229-9DAA-FE99EB89819A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDC41342-628C-4A9D-A507-FE54E5DAB604"
+    },
+    {
+      "class": "group",
+      "id": "22F55D54-B339-4027-871A-FF9FB49C3671"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10840354-2035-4352-B694-58B774C6E273"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "897611DB-2B5E-4A0B-81EE-D1D07592084E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "103C25C3-B08A-4853-9155-EEA89F6FF874"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC0F3A4C-61BA-4E0C-8A3B-B686C3FE3691"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "804CDBF9-4442-4F61-9EBB-C3B132E74DC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1918B71-BED8-4788-97FB-BD857AA64E4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05A79E5C-EB18-42FF-8E45-766413C3A428"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E29F649-AF8F-4892-A398-A14B8D19FACB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78D95334-D43E-4A21-949D-72D38ECDBD30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7F40344-BAE2-40D5-80D7-26C6F9E78748"
+    },
+    {
+      "class": "rectangle",
+      "id": "62081AE4-1402-49FF-8EE5-26ACA9BB1649"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBA2E092-D6BA-41BD-8E59-5351B8769E4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C08F803-FC14-404D-8E46-592FFA0DBBD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E604B81C-8615-432B-914F-170DAEA96DB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBA6F9EA-A397-474B-A19C-F3E2818DEB31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B4C75D5-C907-456C-B029-1970F754C3D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8EA4528-16A3-4932-92FB-9A43DF86A027"
+    }
+  ],
+  "name": "VCD Student Spotlights Peter Stranberg Copy 3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77CBD2AC-03BF-4A00-B3FF-7F8C0A2C8312",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "975261B1-D570-43B7-8108-68603D81D6EF",
+    "guides": [
+      239,
+      455
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCB1EB75-2BF8-495C-8406-589FF53A85D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECF2A14C-D19F-4BC3-9725-F3C7E3D965A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "736FFDE5-5845-4B6D-A26E-DA3B4364DFD2",
+    "height": 419,
+    "width": 476,
+    "x": 812,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : STUDENT TEXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D4F020B-E227-479C-BCDD-55B81C85E7E5",
+      "overrideName": "35DB9093-49FB-4269-AA3F-98F650CFC283_stringValue",
+      "value": "UPCOMING DESIGN EVENTS\nVisiting Designer Lecture – Luke Woods: Reflecting\nNovember 8, 2018, 6:30 – 7:30pm\nHenry Art Gallery and Allen Center for The Visual Arts (HAG)\nOrigami Workshop with Facebook Designers\nNovember 9, 2018, 10am – 12pm\nArt Building (ART)\nPecha Kucha 2018Sign up for event 'Pecha Kucha 2018'\nNovember 13, 2018, 6 – 8:30pm\nArt Building (ART)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D5AC449-AE85-4948-8FC1-AB62337BE6E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

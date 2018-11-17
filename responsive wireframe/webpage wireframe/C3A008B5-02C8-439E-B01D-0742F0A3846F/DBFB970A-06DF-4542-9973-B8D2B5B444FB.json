@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBFB970A-06DF-4542-9973-B8D2B5B444FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAACDDBC-9C5A-4402-A20B-D372562883F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "909B4F0C-9BEC-4A4A-AE3E-BD7FCC0FB650",
+    "height": 43,
+    "width": 400,
+    "x": 0,
+    "y": 588
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : DROP BOX Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B1AECED-E434-4FCC-9B30-9813B081F1B1",
+      "overrideName": "FBE6A662-0397-4E90-80C6-46E9E9B52B08_stringValue",
+      "value": "MINOR DEGREE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "595A58CE-3F37-4BE3-82DD-5475F4A539B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5001053-3AF1-4120-AEBB-28BE9611D1DA",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

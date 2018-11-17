@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A44108A-BE3C-44DE-BD88-01FC00FEB519",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73CC3690-A2BA-4ADE-8343-D7D690113A53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2188253-BB62-46CA-85C3-6E5B1C29406A",
+    "height": 50,
+    "width": 275,
+    "x": 6,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB0DBDB6-81C8-4162-B96C-39F98B4A5C2F",
+      "overrideName": "2C669824-D003-4B45-9EAB-833641098BED_stringValue",
+      "value": "Ginny Stovel"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57D3E60B-30FB-4E82-B924-26903FD6A433",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69B75392-7AB0-484B-B23D-126830AA12C5",
+  "verticalSpacing": 0
+}

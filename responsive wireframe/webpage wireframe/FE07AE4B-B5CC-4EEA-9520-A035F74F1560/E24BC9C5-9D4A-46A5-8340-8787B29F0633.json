@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E24BC9C5-9D4A-46A5-8340-8787B29F0633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F1ECDBF-895A-4422-9C75-60EE39F911BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E1A17C9-6B35-4D4D-BA8E-17E634A17AD9",
+    "height": 16,
+    "width": 172,
+    "x": 163,
+    "y": 1069.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : CONTACT TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "646D3DD2-FBD6-4A79-B18A-A72D7B78DB96",
+      "overrideName": "3ACD144B-CF2E-4F1D-BFC6-A6BB44C163BF_stringValue",
+      "value": "YOUR EMAIL ADDRESS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "527318AC-7C8C-4748-A99C-4EE4F13E706B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0F206A1-CDF5-4A9D-9C92-BC22CDCE3D61",
+  "verticalSpacing": 0
+}

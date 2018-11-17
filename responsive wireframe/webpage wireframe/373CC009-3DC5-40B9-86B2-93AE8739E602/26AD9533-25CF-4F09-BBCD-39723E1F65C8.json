@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "26AD9533-25CF-4F09-BBCD-39723E1F65C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C66082B0-A3C2-4DC0-9C81-BE3287A08832",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48148CA9-767D-40BE-BCA8-CDD7933F0234",
+    "height": 361,
+    "width": 362,
+    "x": 538,
+    "y": 563
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE :  pitcureIMAGE BOX Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5211825B-E732-42E7-ABED-4307644E8AEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A00910B-B9FB-4492-BC5A-DBEEF83E7A2D",
+  "verticalSpacing": 0
+}

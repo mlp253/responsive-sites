@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "949EF9BE-EAE7-4F4E-BCC1-A85DA2722E04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DFDA519-3CEF-4ADC-95AD-5A4521EC65D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D35A740C-5286-41C4-9778-C396A416AFDC",
+    "height": 122,
+    "width": 123,
+    "x": 174,
+    "y": 408
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : IMAGE BOX Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A5C6737-AD20-4853-800D-643F3A0AECD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E7A871D-7CCF-4478-9725-A8E2AA71B287",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FC2457B-CC7F-4EE5-8241-D3656B5318A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE12EBE1-7CC9-4EF0-B216-8FB8D6AB4088",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E0021A2-2099-40FD-BB55-2354D55FAB1A",
+    "height": 7,
+    "width": 76,
+    "x": 411,
+    "y": 267
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : CONTACT TXT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80231BA0-DECC-488F-88B1-3809426B2FA2",
+      "overrideName": "01C5581D-A20A-4DD5-AB21-A09488C85AC3_stringValue",
+      "value": "MESSAGE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DECA1418-02B4-43F0-963C-F6F1B849A932",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CF97C68-7641-4E05-BF71-1909088FA63A",
+  "verticalSpacing": 0
+}

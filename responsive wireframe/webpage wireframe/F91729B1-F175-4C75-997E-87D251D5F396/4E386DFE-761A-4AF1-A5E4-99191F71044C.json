@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E386DFE-761A-4AF1-A5E4-99191F71044C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D45F7014-7B58-44A5-9E02-4A9F533ADFDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5317108-449B-4F2F-8489-AD71B6B3CD71",
+    "height": 378,
+    "width": 821,
+    "x": 553,
+    "y": 1546
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT WILL I STUDY",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88EFD66A-2320-4E45-89BE-2A183D3C03F7",
+      "overrideName": "35DB9093-49FB-4269-AA3F-98F650CFC283_stringValue",
+      "value": "A major in Visual Communication Design educates and prepares students to conceive and create creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, Web design, multimedia design, advertising, printing, publishing, or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image, and interactivity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation.\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C0AEAF1-3308-490B-89E9-D5DBF5DDFFA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

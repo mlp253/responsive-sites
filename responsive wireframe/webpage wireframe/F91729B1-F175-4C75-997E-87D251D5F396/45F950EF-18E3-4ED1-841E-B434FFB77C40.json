@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45F950EF-18E3-4ED1-841E-B434FFB77C40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DD72F26-57BB-4ADD-9D7E-B9A307493080",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "760988DA-FBAF-435D-AD14-37C378D405C4",
+    "height": 75,
+    "width": 576,
+    "x": 0,
+    "y": 394
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : IMAGE HEADER W/ TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6933B80-F8B6-4F5D-96E6-D8622EB97DFB",
+      "overrideName": "F1A9FC31-0667-4B40-9EAD-90BBCC854CB0_stringValue",
+      "value": "DEGREE OPTIONS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24157AA3-52F3-4431-8F83-473A889E43A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A89B1C65-C906-4049-A4A3-3CBBAACBF728",
+  "verticalSpacing": 0
+}

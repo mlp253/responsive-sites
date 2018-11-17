@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "02E3CC9F-AFAB-4675-99A1-7D0B861A658F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 601,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEDA51C6-2D5F-40AF-BCFF-C912AA253403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0513C7A4-8C9D-48FF-9EB5-BBEE49028F44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "635590D4-1CFB-4747-A28C-29742C11D7E1",
+    "height": 18,
+    "width": 18,
+    "x": 15958,
+    "y": -1261
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7C91D5BB-B497-4E45-9EF5-F9805F8FCB86",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "3422F5D7-BC9B-4742-98A4-9AFA9BA129F5"
+    }
+  ],
+  "name": "P MOLECULE : SOCIAL ICON instagram",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1ABC3D5-6B64-4EA6-8A9C-FB9CEC3FB7EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "16C33AD3-C53C-4CF0-A671-F47F42C2C770",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8902A2CC-B1B3-4813-B5E3-596F7EACCCD1",
+    "guides": [
+    ]
+  }
+}

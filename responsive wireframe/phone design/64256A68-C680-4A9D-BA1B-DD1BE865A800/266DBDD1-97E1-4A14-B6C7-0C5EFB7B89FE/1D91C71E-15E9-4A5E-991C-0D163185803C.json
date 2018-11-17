@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D91C71E-15E9-4A5E-991C-0D163185803C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BD52994-7D11-4357-A0C6-EF475EF9291A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81CB0B6D-53D9-4ACE-B9C2-726F995B8FAB",
+    "height": 24,
+    "width": 112,
+    "x": 1,
+    "y": 84
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : BUTTON Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6FC9A19-6437-4B6A-9583-EBE2764413F1",
+      "overrideName": "8121E2A9-48FE-4F03-8CD6-3037979E4F5E_stringValue",
+      "value": "CURRENT EVENTS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89C3F184-4E47-4FD6-A663-48A0406C6096",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5F085EE4-29A6-4D40-8355-BE132A2EE6E9",
+  "verticalSpacing": 0
+}

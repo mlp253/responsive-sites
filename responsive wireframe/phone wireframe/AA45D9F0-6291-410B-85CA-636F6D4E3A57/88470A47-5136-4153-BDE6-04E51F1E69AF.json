@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88470A47-5136-4153-BDE6-04E51F1E69AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 561,
+    "width": 187,
+    "x": 120,
+    "y": 82
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0252A85E-3E6C-421F-A33C-6E4745B0DAF6",
+      "overrideName": "FB5A0449-EF05-45C2-8865-2A0D72FBD4D5_stringValue",
+      "value": "User Experience Design Certificate\nA certificate in User Experience(UX) design will provide students and working professionals a multidisciplinary approach to UX in the context of web-enabled design. Students will learn techniques for composing well crafted and intentional interactions between users and products or technology. The UX certificate provides applied understanding of the concepts, practical knowledge and skills necessary for understanding User Centered Design(UCD) and developing experiences and artifacts for people. Current web technologies (rapid prototyping, modern user interface patterns, HTML(5), CSS, JavaScript, etc.) will be introduced, while preparing for future web enabled devices or the progressive enhancement approach. Students will design real world projects with affordances for research, experimentation and play.\n\nIn order to qualify for admission to the UX Certificate Program, fulltime EWU students must hold a GPA ≥3.0 and be entering or past their junior year, or obtain special permission from the certificate program advisor. Post-degree continuing education students who did not graduate from their previous school with at least a GPA >3.0 will be admitted on a probationary basis and must pass a Readiness Assessment before being admitted to the program.\n\nNote:\n\nstudents must earn a GPA ≥3.0 in certificate coursework\nto receive the certificate, students must successfully complete each of the required courses"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAE3CCFD-6988-4924-B1D0-5044EF9EC247",
+  "verticalSpacing": 0
+}

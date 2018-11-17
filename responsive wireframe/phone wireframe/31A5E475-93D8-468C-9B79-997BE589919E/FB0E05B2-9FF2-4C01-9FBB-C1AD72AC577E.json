@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB0E05B2-9FF2-4C01-9FBB-C1AD72AC577E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9689AAE8-4332-4E47-82D5-82F1816F0861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80AE018B-CB91-4422-B265-68CCBB7CF09F",
+    "height": 14,
+    "width": 105,
+    "x": 0,
+    "y": 151
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB7D2E68-C388-49BE-9D01-AC087D1F901F",
+      "overrideName": "96F6D269-5F81-4037-A0B3-9D1E36562FB0_stringValue",
+      "value": "MINOR"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "311A6369-6CC9-41A6-8D40-3368B07CA29F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFA0CA7D-9ED8-4B9A-ABC8-94BB423FC414",
+  "verticalSpacing": 0
+}

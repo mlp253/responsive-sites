@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B18C1004-3653-4BD6-928B-0B0ABF36B7A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E814A4BA-365A-4E59-857A-FADE8FF63AAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EC43040-B586-461B-B729-E66AD2BF6818",
+    "height": 307,
+    "width": 132,
+    "x": 1285,
+    "y": 837
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: SLIDE ARROW",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F8FE97D-53CE-464D-B84B-FB8521BC4689",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A531B5E-2B5D-466F-B725-1B77FE8E367F",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

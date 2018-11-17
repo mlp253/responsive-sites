@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6A895D33-9B91-437E-A616-669FFB822444",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1040,
+  "clippingMaskMode": 0,
+  "do_objectID": "25CD84DA-0830-4221-9D2C-2A7977C3BBC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F91E9D41-2B50-4FD7-AFDC-BB099F214611",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69A81E42-DCDB-47FD-AFAD-0C1DD35C3D44",
+    "height": 80,
+    "width": 80,
+    "x": 6890,
+    "y": -997
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EBD3C583-1DAB-4812-862E-7D1C51D105A6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C521F37E-7DD5-4256-B62A-F46C8FBE7089"
+    }
+  ],
+  "name": "W MOLECULE : SOCIAL ICON instagram",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFC84B57-7DFD-4EBF-8EBD-3948965F163B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5787C8BE-59C4-4EA4-9AFD-922A90E6D0F9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E01829B0-112E-4237-B5FE-4C750C4C6AAE",
+    "guides": [
+    ]
+  }
+}

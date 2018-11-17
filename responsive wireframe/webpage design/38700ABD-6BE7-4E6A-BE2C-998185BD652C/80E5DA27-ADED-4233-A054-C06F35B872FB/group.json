@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80E5DA27-ADED-4233-A054-C06F35B872FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8683FDE-7CF2-40DD-AE00-0B653B3C3F63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34E69CC7-7B81-437A-9C40-9F7896DDE408",
+    "height": 219,
+    "width": 838,
+    "x": 541,
+    "y": 1600
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F1A0F92-B6E3-4EEF-8031-2AFF1912CC89"
+    },
+    {
+      "class": "text",
+      "id": "F16DB6E0-A573-4ABC-A7FC-DAAC8DECA649"
+    }
+  ],
+  "name": "molecule : footer text copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B139D49-314B-4619-8D28-DF1FF4F6D0B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

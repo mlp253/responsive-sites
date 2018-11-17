@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1CF57788-266F-4735-A585-D36BF74AA7EF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9532CDED-0508-445F-9578-062D9F3117E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA05FC3F-0EEF-4037-8EEC-32AC2726D2DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3666B8C-A2D4-44B4-B5F9-A3B122ACE14B",
+    "height": 713,
+    "width": 320,
+    "x": 571,
+    "y": 1120
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9DDA4510-952B-4071-890B-7DC70C13A6B9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "83FA5A16-C6B4-4E5B-9DC2-AE6A13FF5EDD"
+    },
+    {
+      "class": "group",
+      "id": "729923DF-2910-48F0-BD6C-E55E6E6B599F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB2D8ED2-302A-450A-83C8-D06797EA46F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A263164-4918-49CD-8CF2-A4E660E46CD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C64DA3ED-C4DD-415B-9BC0-F8827264627D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D929F83D-0464-4908-AE15-BA1C511DA650"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68287DE6-9CC9-493B-96D6-B5C788915762"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE9274FB-05D4-4B95-927C-DE8E95BA36E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "858A3B62-4F0E-4C6C-98B5-F5D13BDDDCA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE320D70-74AC-4F02-9477-941895BA25F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCB33E63-8DD4-43F2-9021-48CC86A6CAC0"
+    },
+    {
+      "class": "group",
+      "id": "C90F1533-9673-487B-B8FE-9EA4A6014417"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2651E43C-A36E-4438-ACBA-E22448F67FD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1214439-3114-4186-9667-C782501A5DCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FC2457B-CC7F-4EE5-8241-D3656B5318A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B59C8272-D8A3-4C56-9D87-A5AC11AE3F46"
+    },
+    {
+      "class": "group",
+      "id": "84097D3A-AFC7-4539-9EEC-30BE9EEDB386"
+    }
+  ],
+  "name": "iPhone student spotlights STUDENT 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "289057A2-BBB0-4BA4-B310-2BF16DE971B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A3E0A8D9-D55A-4196-AD9D-B440CF6456B8",
+    "guides": [
+      107,
+      100
+    ]
+  }
+}

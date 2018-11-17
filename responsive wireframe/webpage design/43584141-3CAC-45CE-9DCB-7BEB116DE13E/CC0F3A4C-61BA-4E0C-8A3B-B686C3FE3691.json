@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC0F3A4C-61BA-4E0C-8A3B-B686C3FE3691",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B7BF487-FE78-41F9-BCC8-3FA6D484AD83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FFFDF13-2105-4803-AE1B-6E7682E53EF3",
+    "height": 80.08390730036149,
+    "width": 80,
+    "x": 415,
+    "y": 1684.765199831353
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : ICON Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F80AA21-7C45-4E30-A173-B9D0C80AEC83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4FB848C-6617-49F7-B7D4-3EA5788AE432",
+  "verticalSpacing": 0
+}

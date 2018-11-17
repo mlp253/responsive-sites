@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA391F12-0CF1-4C59-A374-E80BFAA995FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8269978D-C6E7-43F6-83E2-D7F7F47D8300",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5351DC1-964F-4912-8144-B4A5AFDABCDB",
+    "height": 18,
+    "width": 240,
+    "x": 163,
+    "y": 1091.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : ANSWER BOX Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F889705-91DA-4129-B40D-90DA8B725038",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "344E50BB-1D44-4530-AB10-736FA3716DCB",
+  "verticalSpacing": 0
+}

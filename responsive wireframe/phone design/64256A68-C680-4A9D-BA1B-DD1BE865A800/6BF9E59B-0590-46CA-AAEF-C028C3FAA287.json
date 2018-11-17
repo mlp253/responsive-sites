@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BF9E59B-0590-46CA-AAEF-C028C3FAA287",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E4CB4C7-8D2A-49FB-9D0C-8E6EAC6B2D60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "867645DB-473A-4D63-A1A2-67762FFB7F1F",
+    "height": 18,
+    "width": 320,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : PAGE TITLE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB1093DD-1074-490C-A140-9FA29E561A17",
+      "overrideName": "DEEB6527-28BA-4E76-A6AE-75CDFB26A77D_stringValue",
+      "value": "STUDENT SPOTLIGHTS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1A5E3A5-55D3-484F-997E-BF5F55FE39FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ACD2E9E0-2194-4FF6-9EDF-A8FB36C6E897",
+  "verticalSpacing": 0
+}

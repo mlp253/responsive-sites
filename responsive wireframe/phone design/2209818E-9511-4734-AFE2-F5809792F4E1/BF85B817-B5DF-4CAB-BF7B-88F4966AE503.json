@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF85B817-B5DF-4CAB-BF7B-88F4966AE503",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "232A045B-CC16-4FE5-A28D-0D5DEF6A2E5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7696061A-631B-448B-9F2D-F3BE9F40F2A7",
+    "height": 120,
+    "width": 191,
+    "x": 74,
+    "y": 337
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : VIDEO Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26E08E85-4CB1-4BBC-844F-9A33E6E5C590",
+      "overrideName": "41224C5C-90B5-457A-9679-749A721BD02A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c49c2d237cdb2e77120acdb39916b697d9c43ae1.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "191C8604-94DC-4850-AB9B-0196DAF5F370",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9F4ED1C-542B-46D6-88C8-AD5C8F482B70",
+  "verticalSpacing": 0
+}

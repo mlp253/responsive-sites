@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AA2744AA-5E18-43F6-8843-74E5914A52E7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 59,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F6B98E8-E3D5-48B7-9F6A-174764B27FDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E36D221B-9D37-444F-AEB6-F5513A914F37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBC5C51D-9C5C-40CB-968D-FEB1BBE88B32",
+    "height": 18,
+    "width": 18,
+    "x": 15958,
+    "y": -1216
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E80ACDB-98D3-4781-8A83-2EF95E21CABA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "BC2B676C-3AA6-4BF5-A99D-24DAD169F2E6"
+    }
+  ],
+  "name": "P MOLECULE : SOCIAL ICON youtube",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "809605BD-F467-4C8C-9A15-BFB0B7A6F30B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7558E3A2-FF8D-40DE-AE72-0DDAA05E7982",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9C12AD5-7F97-40A9-A4AC-5B05FE64EB9A",
+    "guides": [
+    ]
+  }
+}

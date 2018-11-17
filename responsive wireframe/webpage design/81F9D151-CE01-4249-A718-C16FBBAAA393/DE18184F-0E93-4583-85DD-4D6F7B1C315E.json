@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE18184F-0E93-4583-85DD-4D6F7B1C315E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82BB835C-E72B-46FD-9699-C3A8D5C064A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3B89842-F726-4CEE-932A-4D1D28B03305",
+    "height": 444.465685517006,
+    "width": 1121,
+    "x": 158,
+    "y": 995.0425482069904
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TITLE PARAGRAPH Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA9519EC-DFD2-45FF-B40A-03EAD74BCA1C",
+      "overrideName": "CAACF83F-D859-4090-8E12-AB61429D8129_stringValue",
+      "value": "Becca is a second-year candidate in the Art History MA program, as well as a second-year candidate in the GDip in Curatorial Studies program. Becca is currently researching representations of transnationalism within Venetian Renaissance art and will be completing a research trip to Venice to look at 16th century merchant and pilgrim travel accounts. Becca has completed three practica, two at the National Gallery of Canada in the Prints and Drawings department, and one with the Student and Public Programs Coordinator at the Carleton University Art Gallery. At the National Gallery, she was involved with the production stage of the exhibition Masters of Venetian Portraiture: Veronese, Tiepolo, Vittoria, which was on view the summer of 2018. At the Carleton University Art Gallery, she was able to explore her interests in museum education programming, an interest which was further realized as the Art Education Assistant at CUAG during summer 2018. She is the student representative on the CUAG Advisory Board, and currently serves as the president of the Art History Graduate Students Society."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C36D0625-3DF7-43E9-92B6-EBC237B60FC4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C246346F-F1AC-4EEF-90BA-CAF41B0EAD89",
+  "verticalSpacing": 0
+}

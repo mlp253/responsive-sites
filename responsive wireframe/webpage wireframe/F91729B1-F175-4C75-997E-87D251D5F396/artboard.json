@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6B816004-1C37-4B9D-89E6-A16FCE5B2360",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F91729B1-F175-4C75-997E-87D251D5F396",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04F4B6B1-20F1-4588-BB93-E8B6FE6B129D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8E31565-DBED-4760-9F85-7729AF4A6275",
+    "height": 2246,
+    "width": 1440,
+    "x": 24023,
+    "y": 7605
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F66D1E15-0F77-40BA-A278-7639AFD328B7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4E386DFE-761A-4AF1-A5E4-99191F71044C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "890ED2FF-A916-4F01-9D35-6733F8B8A092"
+    },
+    {
+      "class": "rectangle",
+      "id": "ABEA75B7-446A-4626-BD53-7DBC4191AF7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45F950EF-18E3-4ED1-841E-B434FFB77C40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1FDD2E8-48C7-4325-AF10-30D6ABAD99B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "388895A9-4D5D-4B84-8F98-B61FB6292217"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1C7E900-AFEC-41AE-9B8B-9C1FDD799FAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4ACA8FC-C8B2-4409-B1F6-4B2B67402FAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "122F3FDF-5D71-4D14-BD26-266B5458F90A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22E891C0-399A-4AC8-97CB-BDE7A2029A3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C23AC09D-15F0-4D42-BD62-5D35CE6FC5DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A649E003-CA9D-445B-BDF4-FDECC57DC94C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92BCA6D1-008E-41BC-B83C-C2FC11DB4F02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B456C04-AC1E-4DF3-B130-D7833CF18EA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC62054B-299C-44D6-B628-105C550AE1B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C69F117-E420-42C1-BD80-B3D2B29C2258"
+    },
+    {
+      "class": "group",
+      "id": "CDB1FE9B-99CD-4140-9D34-FE694FA225E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "320F3DD3-D2CE-4947-8BC7-A9AF46A24667"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6922A474-33B8-4ECA-9044-CB4A7B5A6D7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5DCA84E-A23E-44D2-A7FE-935CE38F637B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDC5DFA4-9922-4FAF-937F-EA91E4F25357"
+    }
+  ],
+  "name": "Degree Options MINOR IMAGE",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1C29EDF-AD4E-4DE6-8FFA-9FC17DDB9E2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1DBC2A17-3BFE-47CE-A9AD-42F92A6DB933",
+    "guides": [
+      567,
+      1019
+    ]
+  }
+}

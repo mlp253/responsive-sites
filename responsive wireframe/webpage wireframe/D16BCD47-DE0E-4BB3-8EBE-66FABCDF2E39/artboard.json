@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "78FBAC34-D68B-44EF-90A3-6EA03C53D00E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D16BCD47-DE0E-4BB3-8EBE-66FABCDF2E39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7318119D-54C8-4128-8F43-7DF44088A00D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CA816C8-66E6-49ED-9E24-8EB0106D92C3",
+    "height": 1225,
+    "width": 1440,
+    "x": 31886,
+    "y": 6040
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C0B8CD4B-2D6F-4C8A-B7B9-28863FE60564",
+    "guides": [
+      719,
+      1560
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B205977C-2C23-4B9D-8445-203BB3A8E752"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B0E255C-BC50-422D-BDC1-4B13EB49D17F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7728C890-E7D9-4291-B494-2E0DF9822E5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D106DC87-1977-4CE8-BC32-C94DC78E4CC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87221648-BBA4-475A-9F40-36978CD04688"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FCA5F9C-24D0-45CE-AC3C-D2258C191F63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8F282CD-368C-4240-92CD-B6D9A4153BF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99C75084-6F9F-4692-9AF8-6FDCE190F74A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D5AAE2D-6379-4F1A-9001-00EDBE66CAE3"
+    },
+    {
+      "class": "group",
+      "id": "08A122DB-A340-4440-8467-687E70F83449"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20CE608D-F935-45DB-860F-ABACF133A6B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "154630E9-00F8-46CD-8F97-54A57FD8C087"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7819326A-A88C-4CE6-9690-4963D4E7ACBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9733D1D4-EFED-4366-84D9-8AA914DAD105"
+    },
+    {
+      "class": "rectangle",
+      "id": "BB9C0E4B-7F66-4F60-8976-14106825304A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09C2591B-E439-4CDD-825F-48B4261936CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A096542-A516-461D-8018-29042246C5DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A395E7EB-B44F-4A7A-803D-D8FB43260E20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C71B1E2B-7070-451B-B74C-8F2072A20164"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7FB9A4B-D534-4F46-BF8C-9873789A822D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5ABFD945-D912-4D54-B093-EC6AF70749F2"
+    }
+  ],
+  "name": "CURRENT EVENTS DIRETORS NOTES",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7EED7D0-8AAA-44E4-8E68-63258B5AC282",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FFF1D51B-4462-4C54-A633-732017069F6C",
+    "guides": [
+      564,
+      831,
+      461
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64427002-3B2A-436B-A6C7-4266DFDB1F12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C11BC76F-55B1-4CB5-A59D-77D3FA260B16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B819F09E-9DF8-48ED-B8DD-67A71CDF89C3",
+    "height": 43,
+    "width": 400,
+    "x": 0,
+    "y": 471
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : DROP BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D339B27-7865-4FDC-98FB-B89ADB1672BC",
+      "overrideName": "FBE6A662-0397-4E90-80C6-46E9E9B52B08_stringValue",
+      "value": "BA DEGREE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D78FA86-C3AF-48C6-AC7D-963F2E16F715",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5001053-3AF1-4120-AEBB-28BE9611D1DA",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

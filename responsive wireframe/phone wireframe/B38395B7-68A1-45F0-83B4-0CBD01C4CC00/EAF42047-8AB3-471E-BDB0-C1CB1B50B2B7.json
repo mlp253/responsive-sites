@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAF42047-8AB3-471E-BDB0-C1CB1B50B2B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC3109C6-423B-4992-B070-68362D3041BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E280A91C-69BB-49D7-B0BD-66E0B3718234",
+    "height": 24,
+    "width": 113,
+    "x": 0,
+    "y": 237
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : BUTTON Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72253FAE-862F-469A-9F98-2EADAE1DACE1",
+      "overrideName": "3032900D-F5DB-4C46-9263-52D9AE985720_stringValue",
+      "value": "FACULTY & ADVISING"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88EE5229-B617-45BD-8772-22FFE7698CDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "93218C94-15BE-4414-8ACA-45A3365727AF",
+  "verticalSpacing": 0
+}

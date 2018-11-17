@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08E8C4CF-D9A2-418A-A8A5-315C8B6D2FE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B661763-20A8-4CA7-9F88-C0524C6A8DF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4491D4C6-B62A-4DBE-B329-AB6C5B5E55F7",
+    "height": 75,
+    "width": 579,
+    "x": -1,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : IMAGE HEADER W/ TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B92D89F-8240-4378-8CA8-C0C87699422B",
+      "overrideName": "F1A9FC31-0667-4B40-9EAD-90BBCC854CB0_stringValue",
+      "value": "BA DEGREE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EAB78CDB-2A31-4887-94B5-AA85E3CE7819",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A89B1C65-C906-4049-A4A3-3CBBAACBF728",
+  "verticalSpacing": 0
+}

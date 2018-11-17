@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E2C62DEB-0896-4F10-8669-625BB1FFBA7C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 648,
+  "clippingMaskMode": 0,
+  "do_objectID": "67FF3DE8-E4DC-46C6-8FE6-E149086FC480",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68B8490D-42A7-419D-AB40-6E75007B6493",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB0E0FC7-1010-44EE-86E2-8AAD1E77D073",
+    "height": 80,
+    "width": 80,
+    "x": 6890,
+    "y": -779
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D57CC52-E4BA-4BC5-A0FA-8E4910D7B9A4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "087FA44F-B02F-44DF-A5D6-22A8AC3FF6BF"
+    }
+  ],
+  "name": "W MOLECULE : SOCIAL ICON youtube",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A5E7194-BB5B-4BDE-B785-C4CF5A6ADAE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4FB848C-6617-49F7-B7D4-3EA5788AE432",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F1AA6BAE-63F5-4F45-BFC2-FC59F8013750",
+    "guides": [
+    ]
+  }
+}

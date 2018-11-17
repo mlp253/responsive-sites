@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5A1F3D4-68E2-4B0A-90C0-2EBD44165CD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F98ADCDC-2091-4E3F-BBDB-8C7DDD5C01B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F4105EA-DC1D-4C66-9A76-2FFF72AD939F",
+    "height": 378,
+    "width": 940,
+    "x": 430,
+    "y": 577
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT WILL I STUDY",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40457A6B-FA35-4371-8BE4-A459A5A62971",
+      "overrideName": "CAACF83F-D859-4090-8E12-AB61429D8129_stringValue",
+      "value": "BFA in Visual Communication Design\n\nThe Department of Engineering and Design and the Department of Art offer an intercollegiate Visual Communication Design program founded on four major concerns: developing the highest levels of individual creative performance and professional education; providing courses for all students which develop ability in both technical visual communications, as well as important core skills in the area of fine art; giving students a greater cultural and historical understanding and aesthetic appreciation of the function of design in the arts and in the world around them; and functioning as dual centers of emphasis and resource for the visual arts, visual communication and technology in the cultural activities of both the university community and the community at large.\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7F72A54-89AB-46E0-8DAC-F91E07D7C940",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C246346F-F1AC-4EEF-90BA-CAF41B0EAD89",
+  "verticalSpacing": 0
+}

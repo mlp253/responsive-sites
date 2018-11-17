@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5724FDC-D136-4EAA-B71B-70770E80EC69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D072A16D-64A3-4CE3-B7C5-B914AF5CDDE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79BE02E6-57A3-41EA-8D45-DBBBCFF0395B",
+    "height": 393,
+    "width": 940,
+    "x": 431,
+    "y": 572
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT WILL I STUDY",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB96DCB0-A0C7-49E1-A0B9-66A245EF0422",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

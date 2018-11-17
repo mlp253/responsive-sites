@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0EFB5380-1365-4B66-AB08-ED77FE9B7BBE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E88CB7B2-9517-433B-BD1C-79A47A572C6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C6507BF-8081-464D-A57C-4D8850CA63C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCB7D054-0704-440A-B1C5-25D13CFA0F44",
+    "height": 713,
+    "width": 320,
+    "x": 571,
+    "y": 2755
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F372E626-CC0F-49E4-9903-02D1826ED141",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "273A592A-3BEB-4C72-A796-138BCAD73AF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4AEE341-6C07-41FA-92DC-82AA3AA7EE85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DFD15EE-03F7-4B5F-9F4D-47D784071745"
+    },
+    {
+      "class": "group",
+      "id": "76DECFEB-7D23-4B6D-8266-8EDDB5AB9F22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2B68DF4-0591-4524-819A-FD13426392EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B264E580-2128-43C2-B93D-78F4BEB88F4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1200661-FDC3-4A12-91F3-F87570DD2B43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08F16C99-E433-4727-8D82-EE5B32737BDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08D2B028-8C7D-4CA4-A97A-B64EBEFC6831"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC9E62E8-664D-438B-B007-A9E7D873B7A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65E5D520-CE6B-4976-A7E7-6F6E49BF032C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "586F860C-7742-48D8-929D-D9C20009B41E"
+    },
+    {
+      "class": "group",
+      "id": "8C0C1CAA-3A18-4328-B512-B574771D5817"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00FE8C79-D1A0-4356-B809-408A587A6BB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B038A6C-5FBF-4310-BE39-D915941FD278"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56AE8689-BCEA-4ACA-BEC1-8657FECC094E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49B214D6-1BDD-4BEB-84E2-BE430DD6D67B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8F8CAF2-44DE-42F8-A67A-4FA68AD266A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFAC1330-E161-4A2E-B768-0E2F8D81EE64"
+    },
+    {
+      "class": "group",
+      "id": "EF40B3F6-1F34-4F83-BE67-D5C2E7187C15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B46B3B0-BF31-4A10-879E-A43F17523B2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAFDEFDB-5B1C-4C7E-87F4-DF6080FFBA96"
+    }
+  ],
+  "name": "iPhone student spotlights STUDENT 3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70888ED9-13B5-4F77-9F3D-CC3BF43EB271",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75612B85-9D68-4D19-9076-D77E1038AEC4",
+    "guides": [
+      107,
+      100
+    ]
+  }
+}

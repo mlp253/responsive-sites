@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "150C09B3-9803-4F6F-A8B3-FD5E2A39C0A9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 34,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9D3B37E-9B1C-4ED2-9096-0479DAB7F626",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6312C898-022B-4298-AD9B-0D2118F88C96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "786D3A2C-138F-4A9F-9B94-895748C0C659",
+    "height": 18,
+    "width": 18,
+    "x": 15958,
+    "y": -1194
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E2CDCCCD-8747-479A-8C51-58CD1F8EAA9C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "84FECF6B-6692-4075-834E-78253B2F84D1"
+    }
+  ],
+  "name": "P MOLECULE : SOCIAL ICON twitter",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBBA52E8-F0BE-4428-B974-005797A08BD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "613C686D-F355-4A6C-BC78-608E7CAD1FAF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "15549BBE-5BAC-4E83-A323-DFF8E65C3619",
+    "guides": [
+    ]
+  }
+}

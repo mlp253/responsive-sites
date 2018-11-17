@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E03E90AF-96F1-4121-AC72-7A16D6C0EFDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33B424B6-968B-46E5-B444-E7891310C398",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "037B667A-E15C-45FA-B2BF-24D0AE8718E7",
+    "height": 47,
+    "width": 253,
+    "x": 450,
+    "y": 599
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BBB42E3-C5A9-49B1-AC3D-42D6B27362DB",
+      "overrideName": "E5AC2B71-86CB-4CE0-B747-D9B2F1E42B35_stringValue",
+      "value": "Davea Butler"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3626D328-0406-4D74-82E7-AAA8942A5742",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11370AFB-856B-4CFB-940E-C3AD03EC136A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

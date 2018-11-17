@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BDB1AD0-A578-4B01-8C14-424DE53BD910",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09A9059C-3831-4CE1-9953-B081CCBA7CC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FF6E014-98DB-4820-AB0C-F90B66F15A2C",
+    "height": 47,
+    "width": 253,
+    "x": 450,
+    "y": 1536
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B8B0A77-ABF1-4E64-857A-3317FEDFA413",
+      "overrideName": "B4F6324D-2FDA-4EB8-B9C3-0A8C081FE963_stringValue",
+      "value": "Dontae Little"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C14A3532-9BF4-4642-BEA7-FB8009C50113",
+      "overrideName": "4C472883-E118-4E9F-A344-C0BAF9087E69_stringValue",
+      "value": "Ester Bednářová"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C14E48D8-ECA2-4B08-B404-57FD4A3778B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67B16CBB-EF63-4BA4-B4EA-2C993524B98F",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

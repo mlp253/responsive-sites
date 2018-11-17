@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1C7E900-AFEC-41AE-9B8B-9C1FDD799FAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A03BA29-9BE8-446E-B094-329A647785D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4D434C2-694B-4E14-B99C-414085CEE3BB",
+    "height": 120,
+    "width": 157,
+    "x": 813,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : BUTTON Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5CA634E-5097-4083-98F6-A259D95C0821",
+      "overrideName": "25870B9A-DC27-4D17-BA74-DD43D5617A48_stringValue",
+      "value": "STUDENT HIGHLIGHTS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF2E75F0-877D-414B-B458-4923A42C97D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "952C9E4E-E658-4BEB-B11F-6B07105D61FE",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E45877F5-7382-435A-8D8F-A85A39359FE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECDE6C66-F5E0-4518-9B8F-ECDCE14403CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37F4BBF4-0508-4EE3-B1E8-F347C57EEAAE",
+    "height": 116,
+    "width": 123,
+    "x": 158,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : IMAGE BOX w/ pic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AD60A4C-053C-49A7-BF05-DF73CC1ADBB5",
+      "overrideName": "FAC9DD53-8ADA-4540-85CA-9A9B65F807BD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a03f9cdc2320b01ebf2d5bf8c45eed523b6c5f8.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4783B24A-F427-45C3-961D-DE80180D60BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92C4D1B3-4D29-460D-A5DA-45FFA2EBA66F",
+  "verticalSpacing": 0
+}

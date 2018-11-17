@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6ECBACA8-A109-4DD3-8381-75A25970AA18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C346E4A7-E2D1-4D9D-8FFC-DCC2B5C7D29C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E4DF7C1-D708-43FD-A357-05098D2B2660",
+    "height": 47,
+    "width": 253,
+    "x": 448,
+    "y": 627
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCEDD3EE-A6F8-498B-A61E-8730A85A1198",
+      "overrideName": "E5AC2B71-86CB-4CE0-B747-D9B2F1E42B35_stringValue",
+      "value": "Thomas Kukabango"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D804B192-AADD-4C48-A82D-AB71F40113B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11370AFB-856B-4CFB-940E-C3AD03EC136A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

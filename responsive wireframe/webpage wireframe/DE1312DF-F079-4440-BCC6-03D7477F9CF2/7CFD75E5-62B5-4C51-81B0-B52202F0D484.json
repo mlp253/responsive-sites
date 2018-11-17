@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CFD75E5-62B5-4C51-81B0-B52202F0D484",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F2E9933-954C-4D1C-8214-37B9CE56915E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC5FAA93-9A02-47E7-9875-5E032F420160",
+    "height": 257,
+    "width": 168,
+    "x": 1136,
+    "y": 1156
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: DETAIL TXT Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F0F2657-C595-4A95-ADFB-24E176CC975F",
+      "overrideName": "4B2202EE-A269-4EB5-9AD3-125EA592ABAF_stringValue",
+      "value": "Allan and Mary Kollar Endowed Fellow in American Art\nbaradel@uw.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "832D2103-798C-4BCF-BEA7-81E975473E03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2C08931-AA1C-4053-B01F-03D198993578",
+  "verticalSpacing": 0
+}

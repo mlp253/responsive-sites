@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06A7FC28-DE58-4AF1-A5DB-9EA71EBBA702",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE129ED3-E7D9-4D38-9A0F-F59E35E6ED18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2F1F112-EDE9-406D-9576-61466EF53726",
+    "height": 47,
+    "width": 253,
+    "x": 1035,
+    "y": 1227
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B8B0A77-ABF1-4E64-857A-3317FEDFA413",
+      "overrideName": "B4F6324D-2FDA-4EB8-B9C3-0A8C081FE963_stringValue",
+      "value": "Dontae Little"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C14A3532-9BF4-4642-BEA7-FB8009C50113",
+      "overrideName": "4C472883-E118-4E9F-A344-C0BAF9087E69_stringValue",
+      "value": "STUDENT WALK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38A88B99-763B-44A0-86BE-E9C759C40D25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67B16CBB-EF63-4BA4-B4EA-2C993524B98F",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "953E7147-A0D4-4D6D-91C2-12100FB9B451",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

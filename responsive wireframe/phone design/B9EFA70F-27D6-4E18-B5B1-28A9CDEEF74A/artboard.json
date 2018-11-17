@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F45BB5A7-B3DA-4D27-95CF-8BBB28A3BAD8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9EFA70F-27D6-4E18-B5B1-28A9CDEEF74A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCE85ABA-01FD-4058-9DED-D8FA6D9E916B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7152FE8D-B13D-488A-9FFD-24AF2040C6FB",
+    "height": 568,
+    "width": 320,
+    "x": 4423,
+    "y": 3323
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "692A780B-F644-49B9-9AAE-A826AF9AB383",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3A57EBBC-7569-4A10-8F05-7FA5FE0BF2DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F39BF08-E30C-41FB-AD5C-B64C0B0CDCE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DF53498-967A-448F-8CEC-8828BFF44BEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "990C9AAB-82E3-41BF-BE88-1824E3CF8D1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67F0D79B-DF87-4579-BB98-35B7B38B138C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B9A381F-96FE-4F43-B08C-7EC6FD840D3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E1DA48F-8070-4335-A767-63D197667A3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F599D5D-EB98-4A7E-AEB8-7B51B4B491EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB75C678-CA26-43B0-AFB3-57DF066C2BCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D388D46-9D84-49D1-9B5D-1036FEAF26F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43C7D441-4798-40AF-81C3-97736EA5A997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FF1B495-921C-4FCF-B5CD-0400AD5D1F2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B03CD6C6-7129-4CEA-A4B6-63A6044E5917"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65230385-3B5F-4F6F-8228-D93350FF5F1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "377BCF3F-1085-499F-9B0B-50013AA6DEFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D15B347-34AA-4EFC-9DD1-8455C238D93A"
+    },
+    {
+      "class": "group",
+      "id": "00B6D245-B4F2-4549-B687-A57927A851A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF815339-D6D1-4CE5-AF58-2B622D5D71DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B25B4255-18AD-44F5-8765-847C5164796A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37F1994B-690D-432E-9C24-336300BEAA49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D55755ED-D28D-46CC-9FE4-81BA778C62AE"
+    }
+  ],
+  "name": "iPhone user experience certificate COURSE LIST",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2E5871F-92E0-4383-9583-124B82D2AF11",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ED90D05E-4592-4C33-B587-4358A2546D71",
+    "guides": [
+      107
+    ]
+  }
+}

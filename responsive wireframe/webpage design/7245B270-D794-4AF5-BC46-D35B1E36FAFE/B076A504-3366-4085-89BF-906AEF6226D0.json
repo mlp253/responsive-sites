@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B076A504-3366-4085-89BF-906AEF6226D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90AA238A-5ECD-4DB9-8119-88D0A11B9986",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AC02BB7-D4BA-4704-8319-B1AA9A3852B9",
+    "height": 578,
+    "width": 393,
+    "x": 976,
+    "y": 878
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : COURSE LIST",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64378DF7-4044-4905-9F20-7392689975F6",
+      "overrideName": "8259F87E-76A4-4290-96C8-63ABD6755781/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "Required Courses (13 credits)\n\nDESN100 Drawing for Communication (5)\nDESN 216 Computer Graphics (4)\nTECH 393 Technology in World Civilization (4)*\n\nElectives-choose from the following list (12-14 credits)\n\nDESN 243 Typography (4) \nDESN 259 History of Design (4)\nDENS 263 Visual Communcation Design\nDESN 275 Digital Audio (4)\nDESN 338 User Experience Design 1\nDESN 350 Digital Imaging and Photography (4)\nDESN 358 User Experience Design 2\nDESN 360 Publication Design (4)\nDESN 363 Visual Communication Design 2 (5)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 375 Digital Video (4)\nDESN 378 Web Design 2 (4)\n*TECH 393 fulfills the General University Requirement for International Studies.\n\nEmphases / Concentrations:\n\nVisual Communication Design\nInteresting courses I might take:\n\nTypography\nWeb Design"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4A0AE45-440A-4F63-AE6E-D6B7A7C4C584",
+      "overrideName": "74C84387-9895-49B0-9060-A44FB32338FA_stringValue",
+      "value": "Required Courses (13 credits)\n\nDESN100 Drawing for Communication (5)\nDESN 216 Computer Graphics (4)\nTECH 393 Technology in World Civilization (4)*\n\nElectives-choose from the following list (12-14 credits)\n\nDESN 243 Typography (4) \nDESN 259 History of Design (4)\nDENS 263 Visual Communcation Design\nDESN 275 Digital Audio (4)\nDESN 338 User Experience Design 1\nDESN 350 Digital Imaging and Photography (4)\nDESN 358 User Experience Design 2\nDESN 360 Publication Design (4)\nDESN 363 Visual Communication Design 2 (5)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 375 Digital Video (4)\nDESN 378 Web Design 2 (4)\n*TECH 393 fulfills the General University Requirement for International Studies."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A582505-F2E4-4106-ACEC-69F1C1D42776",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A955A37-9FBD-4F1F-AAF7-E47836342354",
+  "verticalSpacing": 0
+}

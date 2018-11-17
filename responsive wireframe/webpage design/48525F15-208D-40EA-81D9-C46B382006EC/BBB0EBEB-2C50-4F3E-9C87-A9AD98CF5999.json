@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBB0EBEB-2C50-4F3E-9C87-A9AD98CF5999",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6476D5BC-DF03-4980-ACE1-486CD15B964E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4E55A27-12F7-4FC9-86B7-EA505BC7E3DE",
+    "height": 75,
+    "width": 580,
+    "x": -2,
+    "y": 394
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : IMAGE HEADER W/ TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9116631B-E740-4103-8134-521F0D4DE5C6",
+      "overrideName": "F50B2183-1118-458C-AF71-C80EF72C538C_stringValue",
+      "value": "CURRENT EVENTS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FE27181-FD1B-42DA-9529-DE16A9166AF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9BDF50F-FA8F-4053-8696-457F60C1788A",
+  "verticalSpacing": 0
+}

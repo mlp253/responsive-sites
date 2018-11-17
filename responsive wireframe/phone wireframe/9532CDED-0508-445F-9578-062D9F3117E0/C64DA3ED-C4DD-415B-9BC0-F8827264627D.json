@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C64DA3ED-C4DD-415B-9BC0-F8827264627D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "717BEAF1-7776-4A2D-A281-C747E738ABBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09A68D6B-2C21-492D-812E-8C10100AF5D5",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 533
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR RIGHT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D21A1F33-8B2E-4144-B0A7-E44BA5440A84",
+      "overrideName": "2FCA06F0-8E31-4AAE-AA45-49DFE236558A_stringValue",
+      "value": "Malin Quist"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51D5F395-00D2-432B-A592-B867860E56D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B241FC6-36E6-49E8-A18E-EC3F4EB1296F",
+  "verticalSpacing": 0
+}

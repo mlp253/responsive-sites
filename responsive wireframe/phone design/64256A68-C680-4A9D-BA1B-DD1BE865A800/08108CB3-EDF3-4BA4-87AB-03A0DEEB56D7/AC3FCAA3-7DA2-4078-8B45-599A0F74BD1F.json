@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC3FCAA3-7DA2-4078-8B45-599A0F74BD1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "381C11CD-981F-483D-8D0B-F0162A36661F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E9AB6A3-3D35-4F8B-8FF3-5DCD391ED3CA",
+    "height": 57,
+    "width": 275,
+    "x": 6,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "517AA1C3-9A43-4776-9616-C0FBB7952CF2",
+      "overrideName": "2C669824-D003-4B45-9EAB-833641098BED_stringValue",
+      "value": "Christopher Davidson"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "906E3305-2CE8-4AD9-B6D3-450851F59FDC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69B75392-7AB0-484B-B23D-126830AA12C5",
+  "verticalSpacing": 0
+}

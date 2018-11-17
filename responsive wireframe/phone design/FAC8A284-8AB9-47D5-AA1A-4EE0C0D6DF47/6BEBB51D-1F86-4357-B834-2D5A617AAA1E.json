@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BEBB51D-1F86-4357-B834-2D5A617AAA1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "512E70D3-8D46-4F69-86EC-E3C6174AC1A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F9BEB46-5FDD-47F8-A662-C2EBAB338AD3",
+    "height": 43,
+    "width": 320,
+    "x": 0,
+    "y": 339
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : CATEGORY BOX Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92E994CE-5D18-4723-8B76-CE444E2EA6ED",
+      "overrideName": "393B8BBE-1292-4E41-9A58-117DE2829857_stringValue",
+      "value": "Associate Professor, Art History\nelingo@uw.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6FE9E08-6A79-4EC9-A83C-854D40401F30",
+      "overrideName": "A5203BD8-8105-4910-B8F7-1029FB807C4C_stringValue",
+      "value": "Ray Cooper"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97331805-C2C4-4EEB-9C74-46341CFD5845",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A68EFC8-C7E1-4077-9FCE-7F5C28D659FD",
+  "verticalSpacing": 0
+}

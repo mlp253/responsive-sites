@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A6D20921-03EE-4E96-AE5F-DABA75A9E854",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 234,
+  "clippingMaskMode": 0,
+  "do_objectID": "09B708A8-5D9F-4BDB-A620-0F8D86BCD1B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D92A2E71-D2E2-427E-964B-832C6C8297D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7B561CC-7E21-4554-8EEC-AD5E5AB48E92",
+    "height": 361,
+    "width": 362,
+    "x": 1254,
+    "y": 460
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8962C2F3-DB31-462D-9D48-D0D8F54C99CF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "749EC115-797C-4433-B16D-258EDCE28749"
+    }
+  ],
+  "name": "W MOLECULE :  pitcureIMAGE BOX",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73273A36-647B-4532-BDA0-D50C71552AE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB032306-B93F-40CA-AC55-B81DB461DBE7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "478A19E7-06C2-445F-B549-F34C3FA65336",
+    "guides": [
+    ]
+  }
+}

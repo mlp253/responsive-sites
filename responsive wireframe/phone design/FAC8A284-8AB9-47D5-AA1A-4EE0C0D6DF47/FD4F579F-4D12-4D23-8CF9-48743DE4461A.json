@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD4F579F-4D12-4D23-8CF9-48743DE4461A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA9BD8C4-3A9E-4F42-94A1-C56BCC636585",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD68DC82-A527-4FB6-A944-55D4599BA750",
+    "height": 40,
+    "width": 334,
+    "x": 0,
+    "y": 519
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : CATEGORY BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "028DFB42-06CD-4A60-A0E9-AFD89A29676E",
+      "overrideName": "B9A41DCF-ACE6-490D-969D-6C30E8BF7DC5_stringValue",
+      "value": "Associate Professor, Art History\nmarek@uw.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A4213E4-063B-49B3-A7A0-4150BDBB8859",
+      "overrideName": "0AC2B357-D2DC-4B52-A000-13B45CC7F65A_stringValue",
+      "value": "Anton Brownstein"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8C05FF5-4E1E-49CD-9627-72D6645A152A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24308B61-08C7-42BE-8CE7-24D3F03BDDC4",
+  "verticalSpacing": 0
+}

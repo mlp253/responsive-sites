@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E23DE872-3C4E-47DC-8A18-F688038E44AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BC35BDB-F013-4440-B0EA-345591663091",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D512580-9A63-4188-82E2-9DADA5096203",
+    "height": 788,
+    "width": 832,
+    "x": 92,
+    "y": 1145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : TITLE PARAGRAPH",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B158170-2629-43E2-8A33-56F00F6F0A88",
+      "overrideName": "35DB9093-49FB-4269-AA3F-98F650CFC283_stringValue",
+      "value": "User Experience Design Certificate\n\nA certificate in User Experience(UX) design will provide students and working professionals a multidisciplinary approach to UX in the context of web-enabled design. Students will learn techniques for composing well crafted and intentional interactions between users and products or technology. The UX certificate provides applied understanding of the concepts, practical knowledge and skills necessary for understanding User Centered Design(UCD) and developing experiences and artifacts for people. Current web technologies (rapid prototyping, modern user interface patterns, HTML(5), CSS, JavaScript, etc.) will be introduced, while preparing for future web enabled devices or the progressive enhancement approach. Students will design real world projects with affordances for research, experimentation and play.\n\nIn order to qualify for admission to the UX Certificate Program, fulltime EWU students must hold a GPA ≥3.0 and be entering or past their junior year, or obtain special permission from the certificate program advisor. Post-degree continuing education students who did not graduate from their previous school with at least a GPA >3.0 will be admitted on a probationary basis and must pass a Readiness Assessment before being admitted to the program.\n\nNote:\n\nstudents must earn a GPA ≥3.0 in certificate coursework\nto receive the certificate, students must successfully complete each of the required courses"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CBFF133-F16B-491C-8805-B9B817FA7670",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

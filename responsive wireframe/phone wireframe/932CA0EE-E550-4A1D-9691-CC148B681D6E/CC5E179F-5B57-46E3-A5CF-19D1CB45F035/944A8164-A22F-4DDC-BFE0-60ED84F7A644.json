@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "944A8164-A22F-4DDC-BFE0-60ED84F7A644",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04D9E2B2-21DC-4C5D-921B-57E0C83FE1F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52F16A23-B73B-4156-A351-B4F3E6162B9A",
+    "height": 16,
+    "width": 53,
+    "x": 59,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : TAB Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0731429C-6C81-4C5E-A7A9-CE235ADEDA1B",
+      "overrideName": "CB347859-E7F4-4B8D-AB2E-3DEA1047FCD2_stringValue",
+      "value": "WHAT WILL I WILL STUDY"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CE35C86-06E6-483A-B6B4-8515076AD3BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7FC7A8A-DF95-4E75-91BB-48F549F6FDFF",
+  "verticalSpacing": 0
+}

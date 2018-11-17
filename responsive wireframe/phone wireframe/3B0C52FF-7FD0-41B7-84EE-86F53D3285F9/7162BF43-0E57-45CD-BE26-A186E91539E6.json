@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7162BF43-0E57-45CD-BE26-A186E91539E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0DED375-A6D6-4D67-AD02-7B241E3B38EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BEE61D2-225F-40EC-A965-861615900F24",
+    "height": 36,
+    "width": 275,
+    "x": 22,
+    "y": 188
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F92E6DF-D48A-422E-8AFC-59B18E35BD00",
+      "overrideName": "B4170243-7028-41BF-BB0A-F2E088C4403D_stringValue",
+      "value": "Carlota Monteiro"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9BEBE17-CF79-4898-B60B-DFC9A74A629E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57179F91-4A27-45DF-8F37-4F7C0D3D4B56",
+  "verticalSpacing": 0
+}

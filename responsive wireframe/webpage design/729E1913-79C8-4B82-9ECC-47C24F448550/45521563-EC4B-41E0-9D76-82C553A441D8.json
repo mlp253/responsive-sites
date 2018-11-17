@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45521563-EC4B-41E0-9D76-82C553A441D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF8FBD32-C0E0-4601-9F3E-B5B1499AF3E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28DA4221-281E-4448-A427-2B42FB39B6F8",
+    "height": 47.04929553896204,
+    "width": 253,
+    "x": 448,
+    "y": 1105.157920744988
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B8B0A77-ABF1-4E64-857A-3317FEDFA413",
+      "overrideName": "4C472883-E118-4E9F-A344-C0BAF9087E69_stringValue",
+      "value": "Christopher Davidson"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E16D7E26-34C6-4054-B4DD-BDEABEC0B459",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67B16CBB-EF63-4BA4-B4EA-2C993524B98F",
+  "verticalSpacing": 0
+}

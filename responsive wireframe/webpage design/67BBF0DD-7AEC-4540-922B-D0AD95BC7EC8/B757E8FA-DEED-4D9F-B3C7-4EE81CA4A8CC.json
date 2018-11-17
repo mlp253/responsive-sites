@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B757E8FA-DEED-4D9F-B3C7-4EE81CA4A8CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45E10A47-F093-40F0-B644-57687D4EEE95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94F4556E-F4FE-4A6C-9BC4-D64AA941F64C",
+    "height": 47,
+    "width": 253,
+    "x": 35,
+    "y": 592
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B8B0A77-ABF1-4E64-857A-3317FEDFA413",
+      "overrideName": "B4F6324D-2FDA-4EB8-B9C3-0A8C081FE963_stringValue",
+      "value": "Dontae Little"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C14A3532-9BF4-4642-BEA7-FB8009C50113",
+      "overrideName": "4C472883-E118-4E9F-A344-C0BAF9087E69_stringValue",
+      "value": "FUNDRAISER"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7826D535-5B5A-4B51-913B-3AE00CA7425A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67B16CBB-EF63-4BA4-B4EA-2C993524B98F",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

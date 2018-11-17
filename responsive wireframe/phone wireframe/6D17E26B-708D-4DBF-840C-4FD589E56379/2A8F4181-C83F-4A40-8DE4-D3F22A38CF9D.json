@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A8F4181-C83F-4A40-8DE4-D3F22A38CF9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5E02243-E498-4A29-85C3-18A74661ACF5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42A4ADA6-FBB5-45D7-99A7-3C301989E1B7",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 487
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR RIGHT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "870C5C3D-1565-4303-845C-13C4F68F6D21",
+      "overrideName": "2FCA06F0-8E31-4AAE-AA45-49DFE236558A_stringValue",
+      "value": "DEGREE OPTIONS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC832FB5-F63C-4F9E-A5AA-A7C55B90C60B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B241FC6-36E6-49E8-A18E-EC3F4EB1296F",
+  "verticalSpacing": 0
+}

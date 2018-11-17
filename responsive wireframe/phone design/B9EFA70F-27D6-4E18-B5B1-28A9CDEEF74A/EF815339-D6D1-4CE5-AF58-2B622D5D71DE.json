@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF815339-D6D1-4CE5-AF58-2B622D5D71DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EB2335D-1FBA-48A9-9CCC-7468967362B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AB17F85-66A8-481F-9585-E2FB58DC02C3",
+    "height": 179,
+    "width": 187,
+    "x": 120,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11905B40-97B1-411E-8CE7-68D7AF20773A",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Required Courses (28 credits)\n\nDESN 216 Digital Foundations (4)\nDESN 338 User Experience Design 1 (4)\nDESN 368 Web Design 1 (4)\nDESN 348 User Experience Design 2  (4)\nDESN 378 Web Design 2 (4)\nDESN 458 User Experience Design 3 (4)\nDESN 468 Web Design 3 (4)\n\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C84128B2-5D5F-4EF9-9604-CA04F2F32644",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

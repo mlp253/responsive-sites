@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBE06270-7A6A-49B7-AB3E-6E8F0B3BDD28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F3C9FDB-92B6-46C4-A58D-3CF6DA5BC562",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FFAF292-FC9F-4309-907E-261EE5AA75F3",
+    "height": 75,
+    "width": 194,
+    "x": 118,
+    "y": 278
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC2F458F-E2E5-4C3F-8074-A5ADEBB083A3",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Art Building Hours\nMon – Thu\t7:00 am – 7:00 pm\nFri\t7:00 am – 5:00 pm\nSat\t1:00 pm – 5:00 pm\nSun\t9:00 am – 5:00 pm\nClosed\tEWU holidays"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08D51012-942D-4808-814B-7F3EFDC45180",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

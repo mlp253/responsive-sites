@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "437A518B-C523-452C-83AD-8C9A0A8FF74C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4125E04F-612E-4701-8C09-0ED6308D0801",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70EA43FA-D5DC-42FA-BB22-B953E409AE3E",
+    "height": 14,
+    "width": 105,
+    "x": 0,
+    "y": 165
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CD08897-0A3C-467A-9426-EAF417A703BF",
+      "overrideName": "96F6D269-5F81-4037-A0B3-9D1E36562FB0_stringValue",
+      "value": "USER EX."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB84DD42-987F-4EE0-BD83-50D3483DFDE8",
+      "overrideName": "44E10049-2CA7-4A8D-9F77-71ED983FF5BA_stringValue",
+      "value": "USER EX."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A932111-0041-455C-BF88-3059E52E83D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3CC1904-93D9-479A-BB11-2266984ACEFD",
+  "verticalSpacing": 0
+}

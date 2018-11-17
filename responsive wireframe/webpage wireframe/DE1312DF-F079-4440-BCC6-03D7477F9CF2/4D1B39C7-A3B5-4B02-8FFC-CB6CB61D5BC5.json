@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D1B39C7-A3B5-4B02-8FFC-CB6CB61D5BC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44E97BE3-1D96-423F-AD73-2D868500ECB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "915FC853-E171-4660-8933-3A577D4294C6",
+    "height": 257,
+    "width": 168,
+    "x": 541,
+    "y": 1156
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: DETAIL TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F0F2657-C595-4A95-ADFB-24E176CC975F",
+      "overrideName": "4B2202EE-A269-4EB5-9AD3-125EA592ABAF_stringValue",
+      "value": "Professor, Art History\nmlc@uw.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4A90E3C-51A0-45CA-8E99-2879245275B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2C08931-AA1C-4053-B01F-03D198993578",
+  "verticalSpacing": 0
+}

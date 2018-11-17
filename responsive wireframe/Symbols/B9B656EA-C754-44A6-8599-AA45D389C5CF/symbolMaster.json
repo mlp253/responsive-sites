@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7C4420CD-A4C3-4EB7-AF72-4FAE976CD8A7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 690,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9B656EA-C754-44A6-8599-AA45D389C5CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C94AF759-2E28-4FBF-A539-FEAC2337D058",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECBCE699-7E23-4003-A3D5-A6F20DA24F32",
+    "height": 80,
+    "width": 80,
+    "x": 6890,
+    "y": -1112
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52364FA4-8441-439D-8CAF-CE803789AE7A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "1FF5B96C-D184-414C-8E27-1DE9E33E29BB"
+    }
+  ],
+  "name": "W MOLECULE : SOCIAL ICON facebook",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB2C0B42-2EEC-457C-9303-F36250F4029A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63AA1E42-0E61-4113-907A-4F965E2D04B3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "53FE6553-817D-4CED-97AD-3AED8112F7B5",
+    "guides": [
+    ]
+  }
+}

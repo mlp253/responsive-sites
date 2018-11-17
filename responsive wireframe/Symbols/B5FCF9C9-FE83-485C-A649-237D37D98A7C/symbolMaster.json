@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BEF1A647-DE59-41D9-851A-9A1DE33EA65E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 78,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5FCF9C9-FE83-485C-A649-237D37D98A7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF340F6D-3EFE-4746-BC5F-B7BCFC68AF62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF35292F-B26C-4976-ACF0-B013F1E684E0",
+    "height": 18,
+    "width": 18,
+    "x": 15958,
+    "y": -1238
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "230834E8-2C57-480A-9342-6B7DF1067B20",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "65C5A66C-C329-43B1-9566-349B68904E5D"
+    }
+  ],
+  "name": "P MOLECULE : SOCIAL ICON facebook",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B6B025C-BAB5-4323-9D6C-F39CDA9A6A74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A311BB9-3E45-4D44-967D-C12D9B7F72F4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "931EB03C-688A-4B44-BD60-DC7EEA35CF74",
+    "guides": [
+    ]
+  }
+}

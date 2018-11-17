@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53CDD209-BC5B-486F-9AC7-ADE68B989FF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA196153-D0BE-4B7F-BED4-B2CB76E9BAB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69B3DC6C-7A8E-4AC1-B7AE-81FD00477146",
+    "height": 81,
+    "width": 320,
+    "x": 0,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : LEFT SIDE Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61227A40-3B60-4AF7-9DBE-E8D42044783C",
+      "overrideName": "EAF57F9D-6698-4231-BEF9-A13937B051D3_stringValue",
+      "value": "STUDENT WALK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27121981-6996-4867-A25F-061DF79D60E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "533C1F20-9AE0-4F62-9C21-494A9DDE4582",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8A8E877F-B021-4899-8CE7-90683FB9D7ED",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2630,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AEC329A-12E1-40DD-9A57-902A4D273351",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6E33024-F616-4710-84EE-39473F367A71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "708F57DF-F1A4-47B4-8D43-84C2978D2188",
+    "height": 469,
+    "width": 1440,
+    "x": 4501,
+    "y": 2392
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "34F41B28-1EDC-4C3C-B3B5-08D08C1CB86F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "59FF35AF-D4A6-4DC7-A38B-3B900C631CE6"
+    },
+    {
+      "class": "bitmap",
+      "id": "BFD8F65E-0907-4359-924A-742068992A3B"
+    }
+  ],
+  "name": "W MOLECULE : HEADER Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "376D4884-A49A-4A58-AF0B-6CF0CC01D77C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA0D7A74-A84F-4319-8837-7E7CBACCC441",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BDF0BBDA-257C-4CBA-BAE3-7A91B775A419",
+    "guides": [
+    ]
+  }
+}

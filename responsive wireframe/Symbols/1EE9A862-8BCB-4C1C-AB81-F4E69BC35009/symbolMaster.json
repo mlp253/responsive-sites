@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "194CA6E7-CE38-4558-8309-FC12881652BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2730,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EE9A862-8BCB-4C1C-AB81-F4E69BC35009",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "405D6D30-4DEA-444D-9849-9F1FAB3B8BD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D620980-AF57-4030-B2B6-6B611BAE8606",
+    "height": 1054,
+    "width": 1440,
+    "x": 1435,
+    "y": 4470
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "56B49DB4-8389-476A-A880-CC235254A0E8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "29B4F725-1E86-4A71-847B-19BC43C3EF5B"
+    }
+  ],
+  "name": "W MOLECULE : BACKGROUND WHITE",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE65FF50-78C0-47CA-A221-2F5558616C12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA08E768-96E1-464F-83CC-2E77DE797906",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0AD058EC-4146-4044-89B3-FB7598D0C70C",
+    "guides": [
+    ]
+  }
+}

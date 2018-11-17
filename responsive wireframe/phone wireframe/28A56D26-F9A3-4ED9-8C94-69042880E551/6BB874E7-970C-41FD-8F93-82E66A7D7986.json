@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BB874E7-970C-41FD-8F93-82E66A7D7986",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F0F9975-B7E6-43AB-85E7-7D078A363F47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BD177D0-D6FF-445C-8932-ECF4FAA8FFD8",
+    "height": 81,
+    "width": 334,
+    "x": 0,
+    "y": 482
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : CATEGORY BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC2016F4-353C-4922-B157-019E27B4F33F",
+      "overrideName": "F69D037A-3833-4E13-93D2-228D1A7F9116_stringValue",
+      "value": "Anton Brownstein"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "070CC8FD-5734-4725-9DC6-6B7D5DDDB766",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC237D09-4617-421E-93F5-7A299009B542",
+  "verticalSpacing": 0
+}

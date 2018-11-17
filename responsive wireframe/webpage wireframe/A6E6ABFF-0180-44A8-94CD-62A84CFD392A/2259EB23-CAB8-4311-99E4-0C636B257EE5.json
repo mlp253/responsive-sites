@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2259EB23-CAB8-4311-99E4-0C636B257EE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCEF09F3-A02B-4F31-B11A-A4B68EA18E67",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DFEC283-86A3-4581-9A15-4E1EEFCB3BA6",
+    "height": 1054,
+    "width": 1440,
+    "x": 0,
+    "y": 463
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : BACKGROUND",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "679C0378-C217-4749-8814-A7B76D273646",
+      "overrideName": "FDFD2F87-A225-401A-AE84-C11C37A5565F_stringValue",
+      "value": "STAFF & ADVISING"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45F26EAA-9196-4109-8BCA-AAC7FFB6C198",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68416DED-4125-4BE8-AA61-9178AA3EB359",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

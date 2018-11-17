@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9237A5D0-40C5-4FD1-8A9F-7CA5E661B0F7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 255,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA3285D3-BCCB-4017-9CC4-D677FB4AA866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCAF9F2E-3F24-477D-97BE-163B25A349EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FAFBABA-7E86-41F2-AF92-2379656138B6",
+    "height": 564,
+    "width": 675,
+    "x": 4797,
+    "y": 921
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9216007-1C80-4647-9309-23771B117110",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "16446991-07BB-4847-A8CD-974221824FF5"
+    }
+  ],
+  "name": "W MOLECULE : POP UP BOX yellow",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7887F000-9AAE-45AA-9F86-A92F67440B61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9983A201-B725-4E95-8C3C-B8D5F997BDE6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6FF1003B-2FD8-453F-8352-F91CBBC863D5",
+    "guides": [
+    ]
+  }
+}

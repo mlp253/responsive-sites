@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C76D2E46-0A03-48E3-8007-C72D64942B0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC54DAFC-E280-401F-85E7-4F63503E4AFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "142D1BB7-3163-4910-BC1D-43368039E3AF",
+    "height": 190,
+    "width": 193,
+    "x": 117,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95B07B59-FD13-48B9-A575-FFD8D6D63F4A",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Location\nThe Art Building is located along Stevens Way near the north edge of the University of Washington Seattle campus. Commuter Services has information about getting to campus and parking.\n\nThe School of Art + Art History + Design also has the CMA Building as well as the Sand Point Studios and Gallery. There is a basic map (PDF) showing the approximate location of all three facilities. Another map (PDF) shows the location of the Sand Point building adjacent to Magnuson Park."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C33A38F-61E2-4191-B5E4-DD0EEA01D076",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

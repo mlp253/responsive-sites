@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "68287DE6-9CC9-493B-96D6-B5C788915762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A61A03D2-BE43-4E14-9F51-3428C3C2CCEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1334C4C-A102-402A-97BA-D30FDDF7D6E1",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 445
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58FADF09-7AFE-43D8-B345-75C1D5A15826",
+      "overrideName": "B4170243-7028-41BF-BB0A-F2E088C4403D_stringValue",
+      "value": "Deveeprasad Acharya"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F24825FA-CF28-4B78-8240-45E65CCD002F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57179F91-4A27-45DF-8F37-4F7C0D3D4B56",
+  "verticalSpacing": 0
+}

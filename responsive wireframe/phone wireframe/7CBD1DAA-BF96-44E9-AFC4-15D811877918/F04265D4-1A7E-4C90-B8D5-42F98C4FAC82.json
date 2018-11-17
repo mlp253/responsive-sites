@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F04265D4-1A7E-4C90-B8D5-42F98C4FAC82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AE5B25E-ED79-48A1-AD9F-3ECB22DDAE14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "229524D4-E708-401C-BBEE-8675875362BE",
+    "height": 36,
+    "width": 275,
+    "x": 22,
+    "y": 188
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F92E6DF-D48A-422E-8AFC-59B18E35BD00",
+      "overrideName": "B4170243-7028-41BF-BB0A-F2E088C4403D_stringValue",
+      "value": "Uruewa Himona"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "496A724E-8DEB-458F-A984-88FF69E0BEA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57179F91-4A27-45DF-8F37-4F7C0D3D4B56",
+  "verticalSpacing": 0
+}

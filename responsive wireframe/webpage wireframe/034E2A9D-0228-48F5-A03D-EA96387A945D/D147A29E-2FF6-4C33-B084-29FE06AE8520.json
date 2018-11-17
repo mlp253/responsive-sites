@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D147A29E-2FF6-4C33-B084-29FE06AE8520",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "643A3E9E-4924-427D-84E0-330873611B9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C08ACB36-323F-48A7-9135-3C66648F35E0",
+    "height": 675,
+    "width": 393,
+    "x": 977,
+    "y": 1215
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : COURSE LIST",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "747BC883-B6AF-44BD-BB6A-F4DF4FDB8712",
+      "overrideName": "8259F87E-76A4-4290-96C8-63ABD6755781/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "Course List\nCore Courses (55 credits)\nDESN 100 Drawing for Communication (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4)\nDESN 263 Visual Communication Design 1 (4)\nDESN 338 User Experience Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)\nDESN 490 Senior Capstone (5)\nDESN 493 Portfolio Review (2)\n\nSupporting Courses (18–19 credits)\nART 107 Basic Design (5)\nCMST 201 Public Speaking (5) or CMST 200 Introduction to Speech Communication (4)\nTCOM 205 Introduction to Technical Communication (5)\nTECH 393 Technology in World Civilization (4)\n\nElectives (12 credits)\nApproved Electives (12)\n\nNote: MATH 107 is recommended for the above major.\n\nEmphases / Concentrations:\n\nVisual Communication Design\nInteresting courses I might take:\n\nDigital Foundations\nTypography\nInteractive Design\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65F23C92-D38B-413A-A21D-96833A9D4734",
+      "overrideName": "67E83F44-10EF-44BE-BE99-31F70E1F620E_stringValue",
+      "value": "Course List\n\nCore Courses (55 credits)\nDESN 100 Drawing for Communication (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4)\nDESN 263 Visual Communication Design 1 (4)\nDESN 338 User Experience Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)\nDESN 490 Senior Capstone (5)\nDESN 493 Portfolio Review (2)\n\nSupporting Courses (18–19 credits)\nART 107 Basic Design (5)\nCMST 201 Public Speaking (5) or CMST 200 Introduction to Speech Communication (4)\nTCOM 205 Introduction to Technical Communication (5)\nTECH 393 Technology in World Civilization (4)\n\nElectives (12 credits)\nApproved Electives (12)\n\nNote: MATH 107 is recommended for the above major."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1EE92C3-AF0D-4B25-ACAB-01250C33065F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "09E3238F-1E3A-4F80-B10B-9EF0DAA62321",
+  "verticalSpacing": 0
+}

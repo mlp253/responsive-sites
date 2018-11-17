@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63EB91B4-EEE4-48B9-9248-C47E4EF81655",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59E6E38E-DB10-4B0E-AEA6-CD0423D3F936",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F09171D2-A190-4052-A77E-18AF314CBC48",
+    "height": 257,
+    "width": 168,
+    "x": 541,
+    "y": 683
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: DETAIL TXT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F0F2657-C595-4A95-ADFB-24E176CC975F",
+      "overrideName": "4B2202EE-A269-4EB5-9AD3-125EA592ABAF_stringValue",
+      "value": "Assistant Professor, Art History\nvadair@uw.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E7B7FEF-9B70-415E-A673-5C18763D9735",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2C08931-AA1C-4053-B01F-03D198993578",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0E9B93C-B0B0-4F23-B7C8-700114C20E6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E728A33-A7B5-4B58-955E-70DB6525E172",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B5C44C5-3114-4D0E-B8E1-5E2FA64D1F58",
+    "height": 139,
+    "width": 275,
+    "x": 6,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79DEECBA-298E-49B8-9517-8CDA61BE8977",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Peter Stranberg is a first year MA student in the Art History Department who is focusing his research on the history and theory of architecture. Specifically, his research will aim to answer questions about the evolution of curling (as a sport and a social experience); and the role that architecture has played in this evolution. He completed his undergraduate degree in History and Theory of Architecture from Carleton, with a term abroad at the University of Edinburgh. Peter has worked as an interpreter in the Natural Heritage Education department of Murphys Point Provincial Park for the past two summers, gaining experience in research and public engagement."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "783E2D91-343C-4092-9E0C-F7256FCF0F58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

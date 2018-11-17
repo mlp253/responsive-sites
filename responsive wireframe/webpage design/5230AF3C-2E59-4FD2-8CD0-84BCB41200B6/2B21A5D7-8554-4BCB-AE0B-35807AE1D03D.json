@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B21A5D7-8554-4BCB-AE0B-35807AE1D03D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F6E6FD5-C32B-4984-B266-D631BE3849F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60254D12-B79A-4F54-8112-E20098CCC3DF",
+    "height": 1432,
+    "width": 877,
+    "x": 71,
+    "y": 997
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT CAN I STUDY",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97916F02-E285-498F-A743-9FCDE8E5FA37",
+      "overrideName": "315E49AA-C9CA-449D-9BA2-9A7584D98EB3/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "What will I study?\n\nDrawing for Communication, Basic Design, and Typography\n\nThese introductory courses serve as your foundation for advanced study (in visual communication design.) Learn to depict the size and shape of objects, the basic design concepts for 2 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design and Visual Literacy\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nSenior Capstone and Portfolio Review\n\nPut it all together in these two advanced classes. Through a series of weekly critiques and an intense design team based project, you will supplement and refine your body of work in preparation for taking your place within the design community.\n\nPublic Speaking and Technical Communication\n\nCombine theory and practice as you learn to effectively structure information for a variety of purposes and audiences. Learn to present your ideas to clients and coworkers in a powerful and persuasive manner.\n\nHistory of Design, Technology and World Civilization\n\nDiscover the historical context of your work as you study the evolution of design and technology and their impact on society.\n\nMinor\n\nEastern offers many possibilities including Art, Business, Film, Communications, Technology, Music, and English, all taught by well-versed, professional faculty members.\n\nMajor Electives\n\nCustomize your degree by adding approved electives from this variety of courses taught within the department."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90DFA48B-69D2-42A0-8D42-D94B49C01D78",
+      "overrideName": "77C5DF79-3582-4D33-A5C6-5695521E7D62_stringValue",
+      "value": "What will I study?\n\nDrawing for Communication, Basic Design, and Typography\n\nThese introductory courses serve as your foundation for advanced study (in visual communication design.) Learn to depict the size and shape of objects, the basic design concepts for 2 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design and Visual Literacy\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nSenior Capstone and Portfolio Review\n\nPut it all together in these two advanced classes. Through a series of weekly critiques and an intense design team based project, you will supplement and refine your body of work in preparation for taking your place within the design community.\n\nPublic Speaking and Technical Communication\n\nCombine theory and practice as you learn to effectively structure information for a variety of purposes and audiences. Learn to present your ideas to clients and coworkers in a powerful and persuasive manner.\n\nHistory of Design, Technology and World Civilization\n\nDiscover the historical context of your work as you study the evolution of design and technology and their impact on society.\n\nMinor\n\nEastern offers many possibilities including Art, Business, Film, Communications, Technology, Music, and English, all taught by well-versed, professional faculty members.\n\nMajor Electives\n\nCustomize your degree by adding approved electives from this variety of courses taught within the department."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E10741AF-2912-4304-9C4E-D148CFCAC6D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC4B5096-42A4-4A4F-B462-7FB8BE070E3D",
+  "verticalSpacing": 0
+}

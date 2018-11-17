@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C4A0384-B49F-4A9D-9433-6B5DC1C8A5F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16EE1325-5B55-4C79-B8EE-D4F837BE6D90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED5298B5-495B-49A8-AB90-7EE902456F6A",
+    "height": 221,
+    "width": 187,
+    "x": 123,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72A94E3F-24B0-498C-BEC2-76AA5B09C4D8",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "BA in Visual Communication Design\nA major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image and inter activity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED559616-9BB8-41FE-98C8-0464AF08F5EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F7D8753-70B3-4C96-8530-7895B030794A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E26D697B-A68C-4A75-A346-1660E96689FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D56D21F9-1DA4-4E23-B18F-EC3D9BBAB385",
+    "height": 41,
+    "width": 275,
+    "x": 6,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "255B0A94-5A67-4E56-B217-8299CCFDC687",
+      "overrideName": "2C669824-D003-4B45-9EAB-833641098BED_stringValue",
+      "value": "Peter Stranberg"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2DA0FF0-8B6E-4FA6-8A36-8D4666D43B70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69B75392-7AB0-484B-B23D-126830AA12C5",
+  "verticalSpacing": 0
+}

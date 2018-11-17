@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4F67334-07ED-4CF5-87BA-A905553ED751",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2453CBDF-F64F-4BB4-BD4C-AABA741F362A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56F93031-D651-4E09-A318-504ECA7D5B43",
+    "height": 40,
+    "width": 320,
+    "x": 0,
+    "y": 432
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : LEFT SIDE Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61227A40-3B60-4AF7-9DBE-E8D42044783C",
+      "overrideName": "EAF57F9D-6698-4231-BEF9-A13937B051D3_stringValue",
+      "value": "Afonso Pinto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E856997-BEE1-471F-8AD1-EBF567FFE0A8",
+      "overrideName": "F2D3DC88-D1D1-41A0-B5D2-43A9320665C1_stringValue",
+      "value": "Professor, Art History\nmlc@uw.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFB30B74-9EA0-401B-BE2C-4FE4AAB6F1CC",
+      "overrideName": "A857E71E-3751-4181-9E6F-FA81A8BFE95E_stringValue",
+      "value": "Constanza Mariano"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F7031EC-5E4E-4743-859E-93A58A8DAFC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "328FF990-D5F2-491D-9D9D-E7C75553104F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAD63086-D4CD-4A9F-8A81-9896C2ED2756",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0977378A-911D-43C0-A4C4-70A64D72E657",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10F155CB-CE1B-42CC-9C23-2C10A9416C74",
+    "height": 49,
+    "width": 320,
+    "x": 0,
+    "y": 630
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : LEFT SIDE Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61227A40-3B60-4AF7-9DBE-E8D42044783C",
+      "overrideName": "EAF57F9D-6698-4231-BEF9-A13937B051D3_stringValue",
+      "value": "Lew Silverton"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6034039-890C-4BF1-93A0-C528327B9D44",
+      "overrideName": "C3149E55-41F1-462E-8242-12A28EC86475_stringValue",
+      "value": "Iruka Akuchi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1DD0DE5-C87C-4D59-BF6E-4E16B456E7FD",
+      "overrideName": "E2DA7BDC-9EE9-4823-8591-0A32F4D8330B_stringValue",
+      "value": "Allan and Mary Kollar Endowed Fellow in American Art\nbaradel@uw.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E18D672-888F-48E7-B9DA-D1DE2AC6BCA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63F1FD9F-C8CD-4C14-A3E5-210F348B1F58",
+  "verticalSpacing": 0
+}

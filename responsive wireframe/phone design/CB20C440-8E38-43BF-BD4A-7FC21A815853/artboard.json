@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1B0A45D8-BF62-4548-A31F-FDBA40CD5340",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB20C440-8E38-43BF-BD4A-7FC21A815853",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13D07531-C0F3-47F5-9D9F-CFF9591917C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E656FE3-6EA3-4B94-97FD-43F0696DDEE5",
+    "height": 750,
+    "width": 320,
+    "x": 4780,
+    "y": 3323
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F7C9E937-24B4-4162-91F3-C0C7B8F5E03D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2564165B-8857-4AEE-B083-5B89C9A247CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B68C3F5-04E0-4E56-B034-AA0C05955218"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FB7AD2C-6057-48E8-B425-77F66B3AD368"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B184E81-7F30-44B5-81BE-C4238CFC5622"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D09CCA37-8599-4484-8605-CFEC02D9A7BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "421BF582-DCEB-4A3C-B2C2-E80B970D89E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2BA3D77-8655-4A10-91FF-2213474FA1A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C717E561-6D08-467E-AEED-19F45F1C9C75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC81C4A7-A72B-479C-A26F-C79FF1DEDEEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "654696A9-6ED3-4F59-B29F-BD9C9A8604F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07E7CEE0-8589-4C7B-9484-A9AF7F28A16D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE042A36-A87C-4F70-BA44-512D864BFF49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C903D035-E1A4-4C9A-B408-7D56708294AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC7CC401-B002-4BB1-BBCE-C176C69E55BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43028236-57BC-4F0E-AF10-A66674E79259"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAD38204-E2FF-4713-9C89-12F87631CE7F"
+    },
+    {
+      "class": "group",
+      "id": "3CA8E9CA-29DC-47E0-841B-CFE3C2E85873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9B6213C-503C-4E3F-9E66-CB567F1DD700"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBC41DEC-B90B-4579-A79A-46F20ECDA16A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC6FF575-3B86-4C4B-A976-6671840761DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1877EBE9-BCB9-4E8A-9E79-5A9FABA50506"
+    }
+  ],
+  "name": "iPhone user experience certificate",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "187192CD-6695-4276-A357-0FC5A8FBCC25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4B023FD3-869F-4C89-99F0-9C971590DD8F",
+    "guides": [
+      107
+    ]
+  }
+}

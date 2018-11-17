@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9E172155-1ED6-43DF-9E43-84444C51AAD0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 186,
+  "clippingMaskMode": 0,
+  "do_objectID": "61496B4A-7958-437E-96DA-8EBCCA3240D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57DB5B27-928A-48C7-A9EF-1AEC2D3DB479",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22B880F2-65B7-4CE0-908A-DE2674824F04",
+    "height": 535,
+    "width": 320,
+    "x": 15656,
+    "y": 895
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB54B0BC-AA5B-440C-B047-694C92D74076",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B4CDBFFF-AB5B-4F1A-BEE1-BB8976895C70"
+    }
+  ],
+  "name": "P MOLECULE : SHADOW DROP  SCREEN",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B75FB082-2543-489C-B434-E11C5601A5E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C952ED2F-58BD-4CC9-A7D4-4871165D03D8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F0CF768-D86A-4C11-AB30-ABE250F13F47",
+    "guides": [
+    ]
+  }
+}

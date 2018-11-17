@@ -1,0 +1,190 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "BanglaMN",
+              "size": 13
+            }
+          },
+          "kerning": 0.2602892,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 4152,
+        "location": 0
+      }
+    ],
+    "string": "Motivation can be simply defined as the things that induce us to take certain actions or behave in a certain way. It is the why or the reason that drives a person towards a desired goal.\n\nThe reasons can be categorized into something that is within us i.e. intrinsic / internal motivation, or something that is external to us i.e. extrinsic / external motivation.\n\nInternal motivation in performing a task occurs when the task in itself is experienced as rewarding and there is no need for any external reward before it is performed. Examples are love of the task, self-satisfaction, sense of achievement, relaxation purpose, etc.\n\nExternal motivation in performing a task occurs when the task is performed because of an external reward. Examples are praise, recognition, money, stickers, grades, material rewards, etc.\n\nMotivation can be seen as a continuum from being externally driven to becoming more internally driven. All of us start off in life being externally driven. Remember how many children are bribed with sweets or stickers, and do things to get praise from adults. But as we mature and our material needs become more satisfied, we become more internally driven. Though intrinsic motivation is generally accepted as being better as it is within the internal control of the person, external motivation is useful in helping a person initially to get on a task when he does not feel intrinsically motivated to do so.\n\nHowever, the excessive use of external motivation might have detrimental effects. This has been shown in research or experiments that examine the effects of external reward on an internally motivated task.\n\nThe 1973 paper “Undermining children’s intrinsic interest with extrinsic rewards: A test of the overjustification hypothesis” by M Lepper, D Green & R Nisbett, reported an interesting experimental observation. During children’s free-play time, a fun drawing activity was introduced. They observed the children playing and selected those children who appeared to find intrinsic satisfaction in drawing. These children were placed under three different conditions. Condition 1: “Good Player” certificate was shown to some of the children, and asked if they would like to draw to win the certificate. Condition 2: Some children were given the opportunity to simply engage in drawing and the children were given the “Good Player” certificate unexpectedly. Condition 3: Some children simply drew without expecting or receiving any reward.\n\nTwo weeks later, all these children were again allowed to engage in the drawing activity. The result was interesting. It was found that the children who chose to draw for the reward showed less interest in drawing, and also when the reward was withdrawn, these children simply stopped drawing. Children in the other two conditions showed no significant change in their interest in drawing. The result seems to suggest that the external reward of a “Good Player” certificate destroyed the original intrinsic motivation for drawing.\n\nIn 1975, EL Deci reported his research findings in the paper “Intrinsic motivation”, that when people were given rewards for pursuing intrinsically satisfying goals, decreased motivation was the result. The result seems to suggest that if people already enjoy what they are doing, giving rewards for their engaging in this activity can act as a deterrent in continuing with that activity.\n\nThese two reports seem to suggest that external rewards can destroy intrinsic motivation. There is therefore the danger of “overjustification” in our enthusiasm to motivate good performance through rewards.\n\nWhat are the lessons that we can learn in motivating our children, students or subordinates? Suggestions are:\n\n1. Develop intrinsic motivation for tasks, e.g. by providing a safe environment for them to pursue their own interests without undue interference.\n\n2. Encourage intrinsic motivation for tasks e.g. providing opportunities for sharing of work and of the personal satisfaction gained.\n\n3. Provide external rewards sparingly, and without giving expectations for it.\n\nReferences:\n\n1. http://www.succezz.com/S2/ForbiddenPsychologicalTactics.html"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E06A505-E4CE-4BA4-9387-0B35340CCC6A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83C133B4-178B-4DE4-939A-EF3B8075811D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C65E20FA-4A3F-45C5-A055-7F47BF3E4504",
+    "height": 222,
+    "width": 523,
+    "x": 848,
+    "y": 104
+  },
+  "glyphBounds": "{{0, 2}, {523, 1936}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Motivation can be si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "BE33E071-400E-4826-BB2B-F7904F6150F9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "A93EBE4F-D25C-4513-8F31-A52D00B1B7D3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "BanglaMN",
+            "size": 13
+          }
+        },
+        "kerning": 0.2602892,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "=============================================================================",
+          "Beth Shepherd",
+          "Beth Shepherd is a visual artist and a first year MA student in Art History. With a background in science, business, psychology and art history, Beth takes an interdisciplinary research-driven approach to her art practice, where an idea can manifest into anything that helps raise consciousness in her audience.  Her art history research focus is understanding the way art, especially activist art, works at the visceral, emotional and intellectual levels.",
+          "=============================================================================",
+          "Ginny Stovel",
+          "Ginny Stovel is a first year MA candidate in Art History and is jointly pursuing the Curatorial Diploma. In the spring of 2018, she completed a Bachelor of Fine Arts with a specialization in painting and a minor in history at the University of Ottawa. Her undergraduate thesis work centered around the canon of traditional European painting. Her painting questioned the differing roles of women and men in the narratives and subverted the patriarchal themes. She will continue to deepen this line of research in her graduate work along with expanding her curatorial portfolio. Ginny co-curated her first exhibit, [working space], during her fourth year and participated in and presented her work in two other exhibits, sk(in) and VOIX, with members of her graduating class.",
+          "=============================================================================",
+          "Christopher Davidson",
+          "Christopher Davidson is a second-year candidate in both the MA in Art History and GDip in Curatorial Studies programmes at Carleton University. His independent curatorial practice and art historical research are focused on Canadian and International modern and contemporary photography. Since graduating from the Master of Fine Arts (Photography) programme at the Nova Scotia College of Art and Design in 1998, Christopher has held prominent curatorial, teaching and administrative positions in public and private institutions across Canada, as well as in New York and Los Angeles. He has published his critical writing in North America, Europe and Asia, and continues to carry out research on Canadian art historiographies, gender/queer/masculinity studies, and lens-based art. Christopher was a founding board member of Festival X – the Ottawa Photography Festival and is concurrently curating in the Canadian Art collection at the National Gallery of Canada.",
+          "=============================================================================",
+          "Maggie Bryan",
+          "Maggie is a first-year MA student with a focus on transnational themes in Japanese art from the mid-nineteenth century to the present day. She is also currently seeking a diploma in the Curatorial Studies Program. Maggie received her BA in art history and French from Bowdoin College in 2015, where she spent her final year working as a curatorial intern at the Bowdoin College Museum of Art. Her senior Honors Thesis investigated the Orientalist underpinnings of Japonisme, and, using Van Gogh and Monet as case studies, examined the impact that this phenomenon had on European painters’ perceptions and subsequent renderings of space, particularly landscape. Originally from Maine, she returned to North America this past spring after a three-year stint teaching English in Nagano, Japan.",
+          "=============================================================================",
+          "Laura Curtis",
+          "Laura Curtis is a first year MA Art History student. She completed her BA Honours at Carleton University in the program of the History & Theory of Architecture, and a minor in History. She has worked at several historic sites around the city including Pinhey’s Point Heritage Site, Fairfields Heritage House, Cumberland Heritage Village Museum and Billings Estate National Historic Site. Her interests cover topics of heritage, Canadian vernacular architecture and museum design. Her current research revolves around the Ontario Cottage and material culture. Laura is co-chair of the conference committee 2018-2019 for the Art History Graduate Students Society.",
+          "=============================================================================",
+          "Lauren Lussier",
+          "Lauren Lussier is a first year MA candidate in the Art History program and received her HonBA in History and Theory of Art and Women’s Studies from the University of Ottawa. Her undergraduate experience included the co-curation of an art exhibition titled [working space] and a week-long study abroad in Venice where she attended the 57th Venice Biennale. Lauren’s current research interests centre around the ways in which contemporary art is often framed as ‘non-art’ and the 1937 Degenerate Art Exhibition (Entartete Kunst).",
+          "=============================================================================",
+          "Elizabeth Stewart",
+          "Elizabeth Stewart is a first-year MA candidate in the Art History program. Following the completion of her Bachelor of Arts (Honours) in Art History at Queen’s University in 2016, she held internship positions at the Peggy Guggenheim Collection in Venice, Italy, and in the Traveling Exhibitions department at the Museum of Fine Arts, Boston. Her research interests include museums as memorials, and the intersection of gender and art collecting, with special consideration to collectors Peggy Guggenheim and Isabella Stewart Gardner.",
+          "=============================================================================",
+          "Katie Lydiatt",
+          "Katie Lydiatt is first year MA candidate in the Art History program, with a focus on contemporary Canadian art. She previously attended Carleton, earning a bachelor’s degree in Art History and Communication Studies. Her current research looks at the ways in which memory gets addressed in conceptual and performative art forms. Her scholarly interests include memory studies, feminist art history, photography and contemporary performance art. Along with her MA she is also pursuing a diploma in curatorial studies and is the assistant editor of RENDER.",
+          "=============================================================================",
+          "Annika Mazzarella",
+          "Annika Mazzarella is a second-year MA Art History and Graduate Diploma in Curatorial Studies student at Carleton University. From Brock University, she holds a BA (Hons.) in the History of Art and Visual Culture and Medieval and Renaissance Studies with a Concentration in Curatorial Studies and was the Board of Trustees Spirit of Brock, Faculty of Humanities undergraduate recipient upon graduation. Her research interests include: Medieval illuminated manuscripts and cathedral stained glass windows; High Italian Renaissance Florentine paintings; and German Reformation portraiture. Through the OBW Student Exchange Program, Annika studied at the University of Konstanz, completing the IBH Bodensee Summer School 2018 German course intensive. She is currently exploring the field of underwater Medieval archeology. Annika is the GSA Art History Councillor for AHGSS; Art History Steward for CUPE 4600 and Curatorial Studies Student Representative for ICSLAC.",
+          "=============================================================================",
+          "Casandra Brunet",
+          "Casandra Brunet is a first year MA student in Art History. She completed her Honours BA in Art History and a minor in German at Carleton in 2017. Her research interests concern 19th and 20th century German art, the impact of Jewish German émigres on Canadian art and art education, and linguistics. She has worked at the National Gallery of Canada, Halle für Kunst Lüneburg e.V in Germany, and as a research assistant for an art restitution project.",
+          "=============================================================================",
+          "Christine Hodge",
+          "Christine Hodge is a late-career professional who allies extensive management experience of projects, budget, and teams with a love and deepening knowledge of Art. Through her studies for both a Master of Art History and a Curatorial Diploma she is developing her knowledge of non-western art. Drawing on 25 years of working in developing countries, she is particularly intrigued by the space in which Western Art History theory and the very real Asian, African and Latin American intersect and sometimes collide.",
+          "=============================================================================",
+          "Share: Twitter, Facebook \nShort URL: https://carleton.ca/arthistory/?p=3847",
+          "Peter Stranberg is a first year MA student in the Art History Department who is focusing his research on the history and theory of architecture. Specifically, his research will aim to answer questions about the evolution of curling (as a sport and a social experience); and the role that architecture has played in this evolution. He completed his undergraduate degree in History and Theory of Architecture from Carleton, with a term abroad at the University of Edinburgh. Peter has worked as an interpreter in the Natural Heritage Education department of Murphys Point Provincial Park for the past two summers, gaining experience in research and public engagement."
+        ]
+      }
+    }
+  }
+}

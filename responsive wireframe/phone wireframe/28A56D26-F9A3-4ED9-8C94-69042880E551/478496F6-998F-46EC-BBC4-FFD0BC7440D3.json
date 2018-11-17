@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "478496F6-998F-46EC-BBC4-FFD0BC7440D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50F6F35A-E101-40D8-ACF3-54BA8F1821E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3200BAE-A635-4177-A14B-9329E657E7D3",
+    "height": 81,
+    "width": 320,
+    "x": 0,
+    "y": 360
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : LEFT SIDE Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61227A40-3B60-4AF7-9DBE-E8D42044783C",
+      "overrideName": "EAF57F9D-6698-4231-BEF9-A13937B051D3_stringValue",
+      "value": "Afonso Pinto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCCC5349-AE5D-4577-BCAB-9E3A9AA0226B",
+      "overrideName": "30E32BA0-0B26-4F30-92CA-494D4AE0615C_stringValue",
+      "value": "Constanza Mariano"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7C787FE-8529-46E6-8048-F436A05AD1BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "533C1F20-9AE0-4F62-9C21-494A9DDE4582",
+  "verticalSpacing": 0
+}

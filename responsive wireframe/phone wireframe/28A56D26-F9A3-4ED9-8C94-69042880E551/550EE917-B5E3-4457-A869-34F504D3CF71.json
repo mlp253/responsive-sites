@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "550EE917-B5E3-4457-A869-34F504D3CF71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "691605DF-6B51-41E0-9C0D-35DD4D621F68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21E70135-B3C4-44EC-9E32-2D36A4766DBE",
+    "height": 22,
+    "width": 320,
+    "x": 0,
+    "y": 38
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : HEADER IMAGE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFA181C5-2D5B-456D-9A33-B49E3CAB54CD",
+      "overrideName": "DDCC5118-3638-4E49-BC02-E4755FB52E84_stringValue",
+      "value": "CURRENT EVENTS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCED7193-A62C-4093-9962-BD6D05008909",
+      "overrideName": "E00A0DC5-28C8-4EE9-AF33-D65D8C0411B6_stringValue",
+      "value": "FACULTY & ADVISNG"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B245A78-0A70-4435-AD48-2BBB0FDE2C7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D5599EC-E276-46A8-9F53-82EC873FE297",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E8F99C4D-B280-4D0B-BF5B-BA1623C34D62",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "901949C7-113C-4B96-BF8D-6C528296D5C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68AF6EE9-2646-46D5-9C39-E4DB8C243A76",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6F57600-EA2D-4F8B-BE41-B1F8E4094BCA",
+    "height": 1819,
+    "width": 1440,
+    "x": -8172,
+    "y": -543
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBD09CB7-307E-49B3-A85D-9CFF21076888",
+    "guides": [
+      -955,
+      -847
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "895FECC9-5184-46D4-B8C5-EAF79280BF1E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA5CAC73-EF5A-48CD-9A19-AEA18C2A03FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FE09A73-7EB0-404C-B1D1-76C5FBFB34A5"
+    },
+    {
+      "class": "group",
+      "id": "BBB26E98-1468-4304-9E8E-5DB53C2F5755"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F59107E-6C76-4E91-99AA-E55153788B1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE8DE370-09C4-4413-A3A2-ED8E3C07A8D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C50C58AC-B07C-4F11-891D-F36DF3FF4757"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49D5A256-4CB8-4E15-BEA7-0CD4C45CEA3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3876DC4-A6C3-4CE6-81E3-7FBDA26B72CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0061EE31-DCE8-4EEA-BD55-92456A20D69F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DEDC72F-F85D-4242-9923-8DFC4B6BC100"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF641FBE-1118-42D4-A89A-F68D37D888E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AB0EA0D-6FFA-40AD-9464-3C44F0634F6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE714982-7651-43A0-AC04-30D1BE7045DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "514FADA2-B30A-470D-8F8C-D3659AA2ECD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B37FD050-D844-47DD-BA75-938DDA0AFC9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6F57497-9E35-4A1E-8B23-8521A32EE38B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE4D0A75-B09A-45A5-AA51-26C91312E487"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90EAC02E-9D33-473D-AC81-075527FBD9E5"
+    }
+  ],
+  "name": "HOME PAGE IMAGE",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B5E260C-AAAC-4D64-9EF5-1034A7A67979",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30488E0F-2E70-404E-A897-FC43BDA0280B",
+    "guides": [
+      5865,
+      466
+    ]
+  }
+}

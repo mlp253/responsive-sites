@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B836F7C-3CB2-4D6F-8FE5-6259290DBACD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6823E9B1-3E3D-4172-AE61-C917654AF56C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FD22FC9-3762-44FC-9FAF-A3714921DF03",
+    "height": 47,
+    "width": 253,
+    "x": 1054,
+    "y": 1067
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1A2653B-CE94-4F39-BA9E-2F14CE325F2A",
+      "overrideName": "6E28A8A7-11F7-46EE-9BD6-E37A4AE40BE7_stringValue",
+      "value": "Adhraaa Al Azimi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53C3F7D2-1BCD-4116-BCCF-7391F0D7D269",
+      "overrideName": "E5AC2B71-86CB-4CE0-B747-D9B2F1E42B35_stringValue",
+      "value": "Dominik Doudny"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AF287F7-A190-4C35-B91E-1841CCD49214",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11370AFB-856B-4CFB-940E-C3AD03EC136A",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

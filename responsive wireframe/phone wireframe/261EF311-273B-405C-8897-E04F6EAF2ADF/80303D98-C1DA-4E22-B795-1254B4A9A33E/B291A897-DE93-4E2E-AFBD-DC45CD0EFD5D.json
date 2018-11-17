@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B291A897-DE93-4E2E-AFBD-DC45CD0EFD5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC745A76-6D2D-4E5D-974E-CC75B33DF0C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D60B518-8224-4A56-B48E-4730A81124D1",
+    "height": 74,
+    "width": 237,
+    "x": 35,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : TITLE PARA Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "873F5851-9C3B-4B70-B165-2C12D3CDABC4",
+      "overrideName": "8E1538F3-9A35-4CFD-9EF5-224E038A6A35_stringValue",
+      "value": "THANK YOU FOR YOUR MESSAGE SOMEONE WILL REPLY WITHIN 24 HR"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8D989E8-951E-4BEE-BAE2-3B0C697BC611",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D821AAC4-2407-469F-8E9E-AA8856754EEC",
+  "verticalSpacing": 0
+}

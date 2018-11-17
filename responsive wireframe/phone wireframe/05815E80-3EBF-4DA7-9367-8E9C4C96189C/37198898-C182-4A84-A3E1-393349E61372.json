@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37198898-C182-4A84-A3E1-393349E61372",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48B4E91F-D52E-4993-82DB-3B510F9CB04E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89BECDD6-8971-496D-B7E6-105FC09D4D56",
+    "height": 81,
+    "width": 320,
+    "x": 0,
+    "y": 270
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : CATEGORY BOX Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A28B8517-182B-4BF5-A47C-A19D070A4755",
+      "overrideName": "F69D037A-3833-4E13-93D2-228D1A7F9116_stringValue",
+      "value": "FUNDRAISER"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA47083C-C983-4902-A6F1-E440A8323541",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC237D09-4617-421E-93F5-7A299009B542",
+  "verticalSpacing": 0
+}

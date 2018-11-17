@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24C6FE52-44EF-4492-B555-7AAB7403F8C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7D0C72F-B7DF-4A08-94A5-AB27E4C6A80F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E28A47B-CD86-41D5-9765-CCB2E7D9EB16",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 292
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR RIGHT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "797BEA2F-A979-4C80-A847-CFEDCE982F51",
+      "overrideName": "A3257858-AB0A-4090-899B-DA353F2493A9_stringValue",
+      "value": "Zarela Reed"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56F9ADE3-6321-490C-802E-048537EC410F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "22663794-8BF8-4988-98C6-8790F4EB5983",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,155 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F347F13-E335-43CA-8400-0715ACCE4E1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F412BD1F-EAB2-4466-8ECF-546063F86FF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C09E6A37-C0F0-4195-870B-DE26D3120CCD",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -381,
+    "do_objectID": "7AC0856B-AD26-4167-A9FF-067BDB21B2C4",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "FAC8A284-8AB9-47D5-AA1A-4EE0C0D6DF47"
+    },
+    {
+      "class": "artboard",
+      "id": "CB20C440-8E38-43BF-BD4A-7FC21A815853"
+    },
+    {
+      "class": "artboard",
+      "id": "B9EFA70F-27D6-4E18-B5B1-28A9CDEEF74A"
+    },
+    {
+      "class": "artboard",
+      "id": "D513F88C-2BF8-407B-86F9-2063C02C6617"
+    },
+    {
+      "class": "artboard",
+      "id": "F0D162BE-92D6-45FA-A374-EC389A4FED44"
+    },
+    {
+      "class": "artboard",
+      "id": "52CCB5F1-C6C4-4D69-94DD-4AD1FA392664"
+    },
+    {
+      "class": "artboard",
+      "id": "8C97E9D0-2ACA-4E2E-B96C-486C3BC20BE4"
+    },
+    {
+      "class": "artboard",
+      "id": "7588BDD1-1F11-4A16-8EC2-FB68FC76E560"
+    },
+    {
+      "class": "artboard",
+      "id": "EF1DA1BB-18BA-466B-A1BD-605F25A4B12A"
+    },
+    {
+      "class": "artboard",
+      "id": "18C9A657-A3D4-46FB-B74B-9E0445DD511E"
+    },
+    {
+      "class": "artboard",
+      "id": "96E6F4DB-D3A6-4BE0-BDE5-FA505689A655"
+    },
+    {
+      "class": "artboard",
+      "id": "2209818E-9511-4734-AFE2-F5809792F4E1"
+    },
+    {
+      "class": "artboard",
+      "id": "9F4F08FF-6026-4FEC-B5BC-679FC241316B"
+    },
+    {
+      "class": "artboard",
+      "id": "BE6B4CC3-9AAB-4522-A3A8-0B4E769AC10A"
+    },
+    {
+      "class": "artboard",
+      "id": "09494206-C974-4826-A694-2A4035587D3D"
+    },
+    {
+      "class": "artboard",
+      "id": "F1E9E61D-92EA-4511-A473-57C022DCB5A5"
+    },
+    {
+      "class": "artboard",
+      "id": "26A2432A-F7FF-4955-B45D-B2003F1617DE"
+    },
+    {
+      "class": "artboard",
+      "id": "64256A68-C680-4A9D-BA1B-DD1BE865A800"
+    },
+    {
+      "class": "artboard",
+      "id": "01DC4E31-51E2-4F9D-B108-A0F2CB8C26AC"
+    },
+    {
+      "class": "artboard",
+      "id": "590EE6F7-CD3F-436E-8DB7-0864890B78A0"
+    },
+    {
+      "class": "artboard",
+      "id": "AAAD3587-930D-4C96-A7AF-20AA4B0BD7BB"
+    }
+  ],
+  "name": "phone design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A54C26B4-FEBA-49AB-A5EA-B0A4CDAE1E9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -356,
+    "do_objectID": "B7834317-D54B-4C61-9B5E-EFEE4D6425F0",
+    "guides": [
+      691,
+      805
+    ]
+  }
+}

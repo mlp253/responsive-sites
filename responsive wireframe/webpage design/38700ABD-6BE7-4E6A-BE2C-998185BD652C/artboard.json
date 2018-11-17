@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "68A28FE3-C8BB-49BC-AE9B-AB981022DC84",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38700ABD-6BE7-4E6A-BE2C-998185BD652C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B43F996-8539-4931-8212-20937DF8715D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07A565F7-04F2-45F5-8048-D62CE5085FC3",
+    "height": 1820.871661299933,
+    "width": 1439.999999999999,
+    "x": -6531,
+    "y": -543
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FC794052-DF73-4D46-AF97-90EB422FCE18",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EE6CECD9-88F9-41D0-A5FC-5B242AB54DD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B5646DE-F181-41B2-A8F6-D885D91030E7"
+    },
+    {
+      "class": "rectangle",
+      "id": "981C1D47-CEE8-4C1C-8775-7254CFE7660D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AB2E8D1-5F33-40AA-A2F2-6FA8F8C6A07B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AD76A1A-DE4B-4B15-90FA-0076F3747507"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB1775A3-EC54-4336-A716-22A42E8BE88C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D68A090-9E46-4A9D-AAA8-F9C9DDF861B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB757C4F-CBC4-40E5-A0F2-7884EBA536F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A33226D8-E6EE-4C22-AD7E-0E0E1D9D664E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9842C2C8-DB38-4B0E-8D85-1C4FBB955E37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F76063DA-3466-4C8D-85F3-76A5E87B8E94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "607CED3E-5168-42EE-A8C6-9EC1F3F47E16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C6244E8-5F21-4F30-A07F-CFCCC216D1C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7778B6C-8B31-4556-B813-AD576161371B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B62E0F6-D242-4AF4-AA45-D0F739F361FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBD089B0-F57B-476E-A1A2-618E01DDD64F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D2D33B8-3AFD-40D8-9752-A6D4EF1477FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25131254-25CF-485B-BA53-641602E4D7DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3B767E3-B5C1-4F59-B644-78BF144B3D4A"
+    },
+    {
+      "class": "group",
+      "id": "80E5DA27-ADED-4233-A054-C06F35B872FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D10D84E-77C4-41F6-BD2F-5C4084D39403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D52DC2D8-DFCD-4A69-8BC2-1E3A57F511FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE459D03-1133-4775-8035-25E7E2789B9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CED173C-20BD-4449-A5C9-DD1DAF60C6DA"
+    }
+  ],
+  "name": "VCD Student Spotlights",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "434636F1-5AA6-48B6-B6B2-C2F2FA689447",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "56608BB0-34B7-414C-9381-2898953121E6",
+    "guides": [
+      239,
+      455
+    ]
+  }
+}

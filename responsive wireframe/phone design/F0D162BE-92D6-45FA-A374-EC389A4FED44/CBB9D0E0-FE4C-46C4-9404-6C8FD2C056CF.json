@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBB9D0E0-FE4C-46C4-9404-6C8FD2C056CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F8F576F-2090-4660-AAB3-457B2ADDC890",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFF5676B-00F6-48C5-84D1-50EF59DF219C",
+    "height": 309,
+    "width": 187,
+    "x": 123,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "160352CA-2757-41CE-88BD-7B30EAB88891",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Required Courses (13 credits)\n\nDESN100 Drawing for Communication (5)\nDESN 216 Computer Graphics (4)\nTECH 393 Technology in World Civilization (4)*\n\nElectives-choose from the following list (12-14 credits)\n\nDESN 243 Typography (4) \nDESN 259 History of Design (4)\nDENS 263 Visual Communcation Design\nDESN 275 Digital Audio (4)\nDESN 338 User Experience Design 1\nDESN 350 Digital Imaging and Photography (4)\nDESN 358 User Experience Design 2\nDESN 360 Publication Design (4)\nDESN 363 Visual Communication Design 2 (5)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 375 Digital Video (4)\nDESN 378 Web Design 2 (4)\n*TECH 393 fulfills the General University Requirement for International Studies."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0D74169-CD88-48AB-BC76-7044AEAA36EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

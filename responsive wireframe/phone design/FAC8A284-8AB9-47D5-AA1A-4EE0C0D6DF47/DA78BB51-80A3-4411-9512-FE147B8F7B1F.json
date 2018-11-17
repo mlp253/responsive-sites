@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA78BB51-80A3-4411-9512-FE147B8F7B1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82A884F1-5694-4460-A92A-475D3C0A720F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69451129-F6D6-4C12-B7E0-B18BCF464A98",
+    "height": 40,
+    "width": 320,
+    "x": 0,
+    "y": 250
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : LEFT SIDE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58831FBC-07A5-4312-BF63-10871E8B5C6C",
+      "overrideName": "EAF57F9D-6698-4231-BEF9-A13937B051D3_stringValue",
+      "value": "Alexa Richardson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5719C6FB-FFFC-4900-9663-9638F52CDCCE",
+      "overrideName": "8BA2B098-C37D-4919-A4D8-A5C69563C184_stringValue",
+      "value": "Nadine Petrolli"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F47D3113-9E13-43F9-9E34-FF2C0FF47B2E",
+      "overrideName": "1DB30C3D-1564-485C-BB2D-EDB93CF70D4C_stringValue",
+      "value": "Assistant Professor, Art History\nvadair@uw.edu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CF17575-228A-4FF8-8F8F-5B798DAABF15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "27795D85-8699-4563-9CA9-D004993AAA4F",
+  "verticalSpacing": 0
+}

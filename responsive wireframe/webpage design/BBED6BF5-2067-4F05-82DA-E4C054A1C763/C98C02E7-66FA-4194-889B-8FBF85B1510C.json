@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C98C02E7-66FA-4194-889B-8FBF85B1510C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DE30D3B-9669-437B-ADA4-BC8611C6A0AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C93A404-92C7-41B4-B566-0E72D0A2D10F",
+    "height": 206,
+    "width": 895,
+    "x": 237,
+    "y": 1153.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : POP UP BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "077F169B-5580-4E9E-A4C9-01AA3C7F5F74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9983A201-B725-4E95-8C3C-B8D5F997BDE6",
+  "verticalSpacing": 0
+}

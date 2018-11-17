@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9628EDC7-9A12-4860-8E02-2FB9D0844911",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EE74148-B9AD-495F-9DDC-2E2B91E3E70F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF7C899A-7D27-4B7B-86E0-1E88CD79795D",
+    "height": 156,
+    "width": 257,
+    "x": 31,
+    "y": 272
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1F0755C-0EB3-466E-B446-2F2D84CE69C0",
+      "overrideName": "FB5A0449-EF05-45C2-8865-2A0D72FBD4D5_stringValue",
+      "value": "For any aspect of self-improvement, there has to be a reason for you to start and keep going. That is your motivation – the reason for doing what you do. In order to attempt any sort of improvement in your life, you need to be motivated in some way to get started. Strategies for self-improvement start with defining what it is you want to achieve and then charting a course through which you can effect the improvements or changes. These do not have to be drastic changes – they could be something as simple as making time for yourself to write in a journal each day or something to improve your health, such as quitting smoking.\n\nMotivation comes from within. It is something that you want to do for you. This is what keeps you going, getting up each day and going off to work. Children are often the motivating force behind parents saving money, when they would ordinarily blow it on something frivolous. You know that you will need money for your children’s higher education or to give them the extras that they want, such as toys and brand name clothing. This is the reason that you work each day, maintain a home and spend time enjoying each other.\n\nIf you don’t have something to look forward to or see some sense of gratification in what you do, then there is no motivation to get doing it. Just meeting with colleagues helps you get a sense of who you are and your place in the world. Socialization, confidence and improvement are three main aspects of life. When you enjoy life, you can be motivated to achieve great things. Achievement does not have to be something that everyone recognizes. It can be something as simple as learning to make a quilt or to use a saw to create beautiful woodwork. The end result is the feeling of accomplishment that you have in yourself."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A520690-714E-4BAA-A574-9D136E82F3F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAE3CCFD-6988-4924-B1D0-5044EF9EC247",
+  "verticalSpacing": 0
+}

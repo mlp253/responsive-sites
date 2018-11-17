@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8076379D-04C8-4DB7-B456-191ED5ACAEE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BB67B9F-0AD1-42AA-A0EE-73A51A6648BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C5976F6-59C6-4B84-B764-0FE0B16E329D",
+    "height": 288,
+    "width": 451,
+    "x": 67,
+    "y": 1546
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT CAN I DO WITH MY DEGREE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B57EAC2-828A-4E60-8D2B-D79AE7CC1572",
+      "overrideName": "6DFF7B98-589D-4FFC-AE81-7144E74D67F4_stringValue",
+      "value": "What can I do with my degree?\n\nCareer options for graduates with a degree in Visual Communication Design include positions in web design, multimedia design, advertising, printing, publishing, or related fields. A Bachelor's degree in visual communication design qualifies you for more upward mobility and supervisory roles."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "293F63D7-3DD1-49B4-8657-0414C6FCF933",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02FF3155-F945-4A93-9134-0FA47E3988EF",
+  "verticalSpacing": 0
+}

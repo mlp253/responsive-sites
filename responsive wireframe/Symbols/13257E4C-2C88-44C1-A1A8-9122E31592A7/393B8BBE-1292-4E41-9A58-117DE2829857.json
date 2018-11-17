@@ -1,0 +1,120 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Futura-Medium",
+              "size": 7
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 4152,
+        "location": 0
+      }
+    ],
+    "string": "Motivation can be simply defined as the things that induce us to take certain actions or behave in a certain way. It is the why or the reason that drives a person towards a desired goal.\n\nThe reasons can be categorized into something that is within us i.e. intrinsic / internal motivation, or something that is external to us i.e. extrinsic / external motivation.\n\nInternal motivation in performing a task occurs when the task in itself is experienced as rewarding and there is no need for any external reward before it is performed. Examples are love of the task, self-satisfaction, sense of achievement, relaxation purpose, etc.\n\nExternal motivation in performing a task occurs when the task is performed because of an external reward. Examples are praise, recognition, money, stickers, grades, material rewards, etc.\n\nMotivation can be seen as a continuum from being externally driven to becoming more internally driven. All of us start off in life being externally driven. Remember how many children are bribed with sweets or stickers, and do things to get praise from adults. But as we mature and our material needs become more satisfied, we become more internally driven. Though intrinsic motivation is generally accepted as being better as it is within the internal control of the person, external motivation is useful in helping a person initially to get on a task when he does not feel intrinsically motivated to do so.\n\nHowever, the excessive use of external motivation might have detrimental effects. This has been shown in research or experiments that examine the effects of external reward on an internally motivated task.\n\nThe 1973 paper “Undermining children’s intrinsic interest with extrinsic rewards: A test of the overjustification hypothesis” by M Lepper, D Green & R Nisbett, reported an interesting experimental observation. During children’s free-play time, a fun drawing activity was introduced. They observed the children playing and selected those children who appeared to find intrinsic satisfaction in drawing. These children were placed under three different conditions. Condition 1: “Good Player” certificate was shown to some of the children, and asked if they would like to draw to win the certificate. Condition 2: Some children were given the opportunity to simply engage in drawing and the children were given the “Good Player” certificate unexpectedly. Condition 3: Some children simply drew without expecting or receiving any reward.\n\nTwo weeks later, all these children were again allowed to engage in the drawing activity. The result was interesting. It was found that the children who chose to draw for the reward showed less interest in drawing, and also when the reward was withdrawn, these children simply stopped drawing. Children in the other two conditions showed no significant change in their interest in drawing. The result seems to suggest that the external reward of a “Good Player” certificate destroyed the original intrinsic motivation for drawing.\n\nIn 1975, EL Deci reported his research findings in the paper “Intrinsic motivation”, that when people were given rewards for pursuing intrinsically satisfying goals, decreased motivation was the result. The result seems to suggest that if people already enjoy what they are doing, giving rewards for their engaging in this activity can act as a deterrent in continuing with that activity.\n\nThese two reports seem to suggest that external rewards can destroy intrinsic motivation. There is therefore the danger of “overjustification” in our enthusiasm to motivate good performance through rewards.\n\nWhat are the lessons that we can learn in motivating our children, students or subordinates? Suggestions are:\n\n1. Develop intrinsic motivation for tasks, e.g. by providing a safe environment for them to pursue their own interests without undue interference.\n\n2. Encourage intrinsic motivation for tasks e.g. providing opportunities for sharing of work and of the personal satisfaction gained.\n\n3. Provide external rewards sparingly, and without giving expectations for it.\n\nReferences:\n\n1. http://www.succezz.com/S2/ForbiddenPsychologicalTactics.html"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "393B8BBE-1292-4E41-9A58-117DE2829857",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "003EE98D-A050-4290-A6F0-E3A708F8EB1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C162E608-43E1-44F8-A7C2-85D5322CB7DB",
+    "height": 49,
+    "width": 116,
+    "x": 182,
+    "y": 26
+  },
+  "glyphBounds": "{{0, 1}, {116, 1295}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Motivation can be si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AE28856-2999-49B8-BB8C-883A907DB162",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "A226A01D-91BC-4742-A9A2-7EF156EA4FF4",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Futura-Medium",
+            "size": 7
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "date",
+        "options": "MM-DD-2018",
+        "title": "MM-DD-Y"
+      }
+    }
+  }
+}

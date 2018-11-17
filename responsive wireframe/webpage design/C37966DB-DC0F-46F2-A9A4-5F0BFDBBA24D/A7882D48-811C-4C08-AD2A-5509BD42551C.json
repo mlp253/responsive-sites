@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7882D48-811C-4C08-AD2A-5509BD42551C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB2527C3-225A-4E87-8989-576E90DA8325",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0FCA175-EC41-4F2A-8B36-2E19C5B8FE6C",
+    "height": 297,
+    "width": 393,
+    "x": 961,
+    "y": 1145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : COURSE LIST",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "366FD9E6-29B6-4180-AD51-61F454ACBC16",
+      "overrideName": "8259F87E-76A4-4290-96C8-63ABD6755781/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "Required Courses (28 credits)\n\nDESN 216 Digital Foundations (4)\nDESN 338 User Experience Design 1 (4)\nDESN 368 Web Design 1 (4)\nDESN 348 User Experience Design 2  (4)\nDESN 378 Web Design 2 (4)\nDESN 458 User Experience Design 3 (4)\nDESN 468 Web Design 3 (4)\n\nEmphases / Concentrations:\n\nUser Experience Designer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AF2C5F9-80FC-4A25-B316-E5D991992AEB",
+      "overrideName": "74C84387-9895-49B0-9060-A44FB32338FA_stringValue",
+      "value": "Required Courses (28 credits)\n\nDESN 216 Digital Foundations (4)\nDESN 338 User Experience Design 1 (4)\nDESN 368 Web Design 1 (4)\nDESN 348 User Experience Design 2  (4)\nDESN 378 Web Design 2 (4)\nDESN 458 User Experience Design 3 (4)\nDESN 468 Web Design 3 (4)\n\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA2F1291-62F3-4E86-9145-DD36D84C4087",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A955A37-9FBD-4F1F-AAF7-E47836342354",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D5AB13A-30DD-4DB2-A01E-3EF55CD98147",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9C0C2CD-926F-4479-9106-2C2D3AF2CC4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CC1448E-AE5A-4257-8FDA-0C56A7ACB9A5",
+    "height": 710,
+    "width": 393,
+    "x": 976,
+    "y": 1153
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : COURSE LIST",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DC0F106-7FCE-49B1-8E90-53041D1643EB",
+      "overrideName": "74C84387-9895-49B0-9060-A44FB32338FA_stringValue",
+      "value": "Course List\n\nRequired Courses (99 credits) \nART 107 Basic Design (5)\nART 207 Color Design (5)\nART 213 Art in the Humanities (5)\nART 300 Drawing (5)\nART 303 Digital Art I (5)\nART 307 3D Design (5)\nART 360 Printmaking (5)\nART 401 Life Drawing (5)\nART 431 History of Contemporary Art (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4 )\nDESN 263 Visual Communication Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 368 User Experience Design 1 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)\nDESN/ART 471 Senior Exhibition (1,1,1)\nDESN 490 Senior Capstone (5) \nDESN 495 Internship (3-7)\nTECH 393 Technology in World Civilization (4)\n\nElectives (9 credits)\nDesign Elective (4)\nStudio Art Elective (5)\n\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B1907D3-60EC-4B94-A759-4B7609D3D6E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A955A37-9FBD-4F1F-AAF7-E47836342354",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9197C2F1-054B-49FA-AE45-58EB7EC5BEFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9724EA45-A852-4A90-8F9B-A887D8C3F88C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F98F8832-FF1D-4CAB-B948-3EA833312CC5",
+    "height": 147,
+    "width": 731,
+    "x": 358,
+    "y": 1182.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : BUTTON",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3637764B-D233-4204-916F-C7974BC5CFD1",
+      "overrideName": "585214D5-3B89-4698-89A7-CD8BE1B097EF_stringValue",
+      "value": "THANK YOU FOR YOUR MESSAGE SOMEONE WILL REPLY WITHIN 24 HR"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6702DBD-6328-432A-8EF4-A9288F885052",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E8DD42D-47F5-4B23-8CF8-D9F47BF6934D",
+  "verticalSpacing": 0
+}

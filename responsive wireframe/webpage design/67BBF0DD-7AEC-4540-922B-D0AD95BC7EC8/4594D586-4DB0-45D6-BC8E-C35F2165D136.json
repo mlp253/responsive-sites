@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4594D586-4DB0-45D6-BC8E-C35F2165D136",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A24B539F-551A-431B-B72A-171DDD484761",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "721D9661-35DF-4BA5-BC58-CAC771D3A27C",
+    "height": 360,
+    "width": 362,
+    "x": 940,
+    "y": 564
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: DETAIL TXT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F0F2657-C595-4A95-ADFB-24E176CC975F",
+      "overrideName": "4B2202EE-A269-4EB5-9AD3-125EA592ABAF_stringValue",
+      "value": "Parents may not get excited about fundraisers — but they DO get excited about what their child is learning. That’s what makes Square 1 Art’s fundraising program so exceptional. Our focus on the accomplishments of the student, creates conversations between parent and child, as well as memorable keepsakes family members can’t resist. When all is said and done, the child’s creativity is affirmed, the parents have a lasting memory, and the school raises valuable funds. That’s a win-win partnership."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41922A48-8633-4C29-AA6C-3990C1206D24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2C08931-AA1C-4053-B01F-03D198993578",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8F8CAF2-44DE-42F8-A67A-4FA68AD266A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "526D6793-F009-4804-B0F2-7BBBDD44C321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF00FF8A-AC63-45CA-9436-EFEE145FC090",
+    "height": 36,
+    "width": 275,
+    "x": 22,
+    "y": 188
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F92E6DF-D48A-422E-8AFC-59B18E35BD00",
+      "overrideName": "B4170243-7028-41BF-BB0A-F2E088C4403D_stringValue",
+      "value": "Ashish Asharaful"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD6508A7-D4E7-48E1-BB59-B2EC44ED04A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57179F91-4A27-45DF-8F37-4F7C0D3D4B56",
+  "verticalSpacing": 0
+}

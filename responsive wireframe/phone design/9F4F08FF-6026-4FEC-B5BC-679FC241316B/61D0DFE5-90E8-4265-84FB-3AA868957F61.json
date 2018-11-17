@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61D0DFE5-90E8-4265-84FB-3AA868957F61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B3CFC5A-EA3A-4133-98FC-CB3332A6BC36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80C5D2DD-8E36-4D22-A1D6-88485A7C212C",
+    "height": 357,
+    "width": 302,
+    "x": 9,
+    "y": 362
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : SUBMIT TXT  BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AD80C10-1A22-4925-A776-E3C5399BE7A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E449E997-5A48-4529-AB27-5964BE78C48D",
+  "verticalSpacing": 0
+}

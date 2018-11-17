@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "68DE480C-16A6-4800-955F-803813B056F8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 873,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A5AFDB8-7F7F-4F42-9596-FF77BE38EB17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78346C3F-3577-49FD-8491-36A0A6820D10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3E1F00D-AE8C-4D40-8888-A3AA49FC47CA",
+    "height": 80,
+    "width": 80,
+    "x": 6890,
+    "y": -900
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2F0E1710-7948-4838-903B-5C43B88380E6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "61152069-C9EA-4308-B8F2-224CDF597CCA"
+    }
+  ],
+  "name": "W MOLECULE : SOCIAL ICON twitter",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2CFFFBC-C66B-4448-B96A-8A25F21916EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "97FF0EF6-AA75-4BF8-8646-8926CC480869",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D775202C-2A19-4CB5-A3AC-0B31961A149E",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D24A9BA9-E7FD-4E1B-A672-4BFA061CD486",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42329578-3301-49DB-8A34-554C2A8566C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17E86CE8-3D68-4EB1-8FF8-9480766E2728",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43560506-127F-4DA4-BCB3-487C83A433E4",
+      "overrideName": "B4170243-7028-41BF-BB0A-F2E088C4403D_stringValue",
+      "value": "Mok Kwang-Hyun"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F2FD25E-4D45-4ACB-8635-2910AB6ECE6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57179F91-4A27-45DF-8F37-4F7C0D3D4B56",
+  "verticalSpacing": 0
+}

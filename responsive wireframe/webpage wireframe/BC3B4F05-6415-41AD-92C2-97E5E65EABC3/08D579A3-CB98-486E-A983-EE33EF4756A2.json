@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08D579A3-CB98-486E-A983-EE33EF4756A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5636B47-2274-4004-9DB7-21BF47D3F943",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC44855D-EB38-45C7-8657-0CCE9D8FF413",
+    "height": 444.4656855170057,
+    "width": 1121,
+    "x": 160,
+    "y": 603.6324512764741
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TITLE PARAGRAPH Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CC90A93-4E2B-450A-B197-DDF80D0EC313",
+      "overrideName": "35DB9093-49FB-4269-AA3F-98F650CFC283_stringValue",
+      "value": "Christopher Davidson is a second-year candidate in both the MA in Art History and GDip in Curatorial Studies programmes at Carleton University. His independent curatorial practice and art historical research are focused on Canadian and International modern and contemporary photography. Since graduating from the Master of Fine Arts (Photography) programme at the Nova Scotia College of Art and Design in 1998, Christopher has held prominent curatorial, teaching and administrative positions in public and private institutions across Canada, as well as in New York and Los Angeles. He has published his critical writing in North America, Europe and Asia, and continues to carry out research on Canadian art historiographies, gender/queer/masculinity studies, and lens-based art. Christopher was a founding board member of Festival X – the Ottawa Photography Festival and is concurrently curating in the Canadian Art collection at the National Gallery of Canada."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2460C27-F5B7-4E3B-BC63-54221AF8DC9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

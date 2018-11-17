@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3639F828-2E6C-466B-85EF-9E210EFD9A52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF2C742D-C835-48C2-A95C-5908EE659BCC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C26DEF0A-26D4-4089-8642-EF560567A05E",
+    "height": 336,
+    "width": 187,
+    "x": 123,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A8006F5-6B7C-466C-9262-358B55EE586C",
+      "overrideName": "FB5A0449-EF05-45C2-8865-2A0D72FBD4D5_stringValue",
+      "value": "Required Courses (13 credits)\n\nDESN100 Drawing for Communication (5)\nDESN 216 Computer Graphics (4)\nTECH 393 Technology in World Civilization (4)*\n\nElectives-choose from the following list (12-14 credits)\n\nDESN 243 Typography (4) \nDESN 259 History of Design (4)\nDENS 263 Visual Communcation Design\nDESN 275 Digital Audio (4)\nDESN 338 User Experience Design 1\nDESN 350 Digital Imaging and Photography (4)\nDESN 358 User Experience Design 2\nDESN 360 Publication Design (4)\nDESN 363 Visual Communication Design 2 (5)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 375 Digital Video (4)\nDESN 378 Web Design 2 (4)\n*TECH 393 fulfills the General University Requirement for International Studies."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BF6C472-595E-468F-88F2-547C6C250540",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAE3CCFD-6988-4924-B1D0-5044EF9EC247",
+  "verticalSpacing": 0
+}

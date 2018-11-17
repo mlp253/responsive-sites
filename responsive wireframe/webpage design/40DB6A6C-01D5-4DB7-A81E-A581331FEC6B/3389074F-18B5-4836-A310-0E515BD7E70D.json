@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3389074F-18B5-4836-A310-0E515BD7E70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F1ABE52-DEE5-4CB8-A7D4-0128BE4E6904",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38B5B08B-20A2-48BF-9A3E-94514468EF3A",
+    "height": 444.465685517006,
+    "width": 1121,
+    "x": 158,
+    "y": 995.0425482069904
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TITLE PARAGRAPH Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA9519EC-DFD2-45FF-B40A-03EAD74BCA1C",
+      "overrideName": "CAACF83F-D859-4090-8E12-AB61429D8129_stringValue",
+      "value": "Peter Stranberg is a first year MA student in the Art History Department who is focusing his research on the history and theory of architecture. Specifically, his research will aim to answer questions about the evolution of curling (as a sport and a social experience); and the role that architecture has played in this evolution. He completed his undergraduate degree in History and Theory of Architecture from Carleton, with a term abroad at the University of Edinburgh. Peter has worked as an interpreter in the Natural Heritage Education department of Murphys Point Provincial Park for the past two summers, gaining experience in research and public engagement."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D64C2A2-A4D0-427A-AD23-0A257F06A7B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C246346F-F1AC-4EEF-90BA-CAF41B0EAD89",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0974434E-F7D4-4285-A9E2-15E38D83E512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C6E4C39-8142-40B2-A9E2-8658149305E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C5BCB96-B565-44CF-9B06-6EB8628D8B2F",
+    "height": 166,
+    "width": 187,
+    "x": 123,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "770CE7F8-03FE-46C5-B99C-62B9CFD31842",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Minor in Visual Communication Design\n\nA minor in visual communication design will provide students with a foundation in the creative, conceptual and technical skills necessary to understand and participate in the visual communication needs of future professional practice. This minor supports endeavors in visual communication design for print and web, including effective use of design thinking, process, and techniques. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC4163F1-D611-4C03-8828-7340340C336F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

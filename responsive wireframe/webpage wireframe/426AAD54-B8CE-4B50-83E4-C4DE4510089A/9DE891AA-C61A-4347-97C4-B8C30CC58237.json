@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9DE891AA-C61A-4347-97C4-B8C30CC58237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3A16540-4173-4DA8-943A-8D57094ADF7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FF24F29-8F17-4ADE-B2A8-F54BB0EAAFCB",
+    "height": 423.4436598506608,
+    "width": 558,
+    "x": 732,
+    "y": 544.5705696424575
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE: SLIDE SHOW",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C637DE8-BC9F-47CA-9275-0BCE2C7D45F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0641CB29-23CB-43A9-B656-7C0552FC4255",
+  "verticalSpacing": 0
+}

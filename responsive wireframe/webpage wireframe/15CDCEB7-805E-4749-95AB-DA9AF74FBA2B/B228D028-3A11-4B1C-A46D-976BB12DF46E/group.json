@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B228D028-3A11-4B1C-A46D-976BB12DF46E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCE44C32-47B4-498A-8131-32C249C52DBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F92354D-5FFD-4DBA-BB77-56070C284412",
+    "height": 1024,
+    "width": 301,
+    "x": 1953,
+    "y": 1732
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "854E7F1F-19F2-4F9B-BFC7-B6430B189C9A"
+    }
+  ],
+  "name": "molecule: Calenden / Quote",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0333B807-4B85-4800-8961-B1CCB7E4D7EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

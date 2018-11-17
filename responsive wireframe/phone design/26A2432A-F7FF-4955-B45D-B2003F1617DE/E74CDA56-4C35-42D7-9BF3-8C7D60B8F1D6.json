@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E74CDA56-4C35-42D7-9BF3-8C7D60B8F1D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BB0755A-5DAD-4CDD-8919-6199864DDCB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "418330CB-5183-4B99-9048-E6243A7C6DC8",
+    "height": 36,
+    "width": 320,
+    "x": 0,
+    "y": 340
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : NAME BAR LEFT Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "542588D8-D2A6-4E88-AC3A-A365537EA45A",
+      "overrideName": "B6D914A0-1C4C-4BB0-A9B0-C211BDF66084_stringValue",
+      "value": "Chioke Chinasa"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED64CE7A-56D6-4BEA-973F-7739406180A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9EF8145-C8B7-43D4-BF4B-BA8842A14EF0",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EC007169-C474-4BBC-9DC0-611EA15ADC44",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1E6CB7F-8047-41EF-8E19-5DC116E55265",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F0B95F4-F645-4766-AE01-9E3D3E745DC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F86E325C-6335-4837-A474-5F735F09D82E",
+    "height": 507,
+    "width": 320,
+    "x": 2401,
+    "y": 777
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F853BD14-FA6D-4D06-80E4-ED5A3FF15F5C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "90087D34-B6AB-4816-AFD4-A9FA1D56EABB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "047C7707-05E1-4543-9AE0-8467AD71023C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C783F11-EC0C-4D95-97B1-A91993F0A1CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BF2825E-1FA6-4718-B1F0-E4737CB94ECE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F8804BB-F590-4F4F-A4AB-E905E7142B24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "139886D3-01A8-418E-8759-A57A4F23F412"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F8FAB77-2D2B-4363-BA89-C5ABB29B06B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C8AAB48-3776-47C4-B305-CFD03BFF330D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E366A7D-E386-4944-8380-1C0D9C26A846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8878F1FE-91D9-49EA-9B84-4D93BB1D960D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "178A360A-3C4F-4AD1-9A28-15C83B100C8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C53CDC76-2DA6-41AE-9512-6B860C49A155"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7184738D-2596-46D0-A2A4-DB36770DAC1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E40E6E38-C209-4FB8-91C6-121ACB91CE17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE3032A9-0620-493B-88EC-7E16CFB75030"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F5092C2-1C08-4EE7-8A8D-C257EAF797F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4725F91-10DE-4337-A3CE-F52AEB0FCFC2"
+    },
+    {
+      "class": "group",
+      "id": "C62A9902-40C6-451A-964B-6682F7FF7C2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "369BCC22-6EA0-4CAE-8CF8-53FFEC3D23D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3639F828-2E6C-466B-85EF-9E210EFD9A52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A6B4816-F987-4495-864D-25AA80998A22"
+    }
+  ],
+  "name": "iPhone minor COURSE LIST",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72240DD0-DA3D-43BC-B67B-FC8819D43779",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DEC6EE60-23D1-4C2B-95C0-8D8AD25CF483",
+    "guides": [
+      102
+    ]
+  }
+}

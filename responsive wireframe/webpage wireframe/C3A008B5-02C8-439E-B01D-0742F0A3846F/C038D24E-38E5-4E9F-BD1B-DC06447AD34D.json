@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C038D24E-38E5-4E9F-BD1B-DC06447AD34D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A3A9F0E-BC52-47BF-9C61-A35F1BDCA21E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4AE64C2-9069-4AA1-B42A-3BB1BE0FAD78",
+    "height": 976,
+    "width": 877,
+    "x": 71,
+    "y": 999
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT CAN I STUDY",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15CDA21F-EC8F-4E97-9C32-CB13269133CD",
+      "overrideName": "315E49AA-C9CA-449D-9BA2-9A7584D98EB3/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "What will I study?\n\nDrawing, Typography, Basic Design, Color Design, and 3D Design\n\nThese introductory courses serve as your foundation for advanced study. Learn to depict the size and shape of objects, the basic design concepts for 2 and 3 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design, Studio Art, and Printmaking\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nHistory of Art, Design, and Technology\n\nDiscover the historical context of your work as you study the history of art, and the evolution of design and technology.\n\nSenior Capstone and Exhibition\n\nPut it all together in these two advanced classes. Through a series of weekly critiques, an intense design team based project, and an individual exhibition, you will supplement and refine your body of work in preparation for taking your place within the design community."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81CFD119-592B-4474-8252-A32F9533100F",
+      "overrideName": "295C54AA-9133-410C-A67A-4F50C75518DF_stringValue",
+      "value": "What will I study?\n\nDrawing, Typography, Basic Design, Color Design, and 3D Design\n\nThese introductory courses serve as your foundation for advanced study. Learn to depict the size and shape of objects, the basic design concepts for 2 and 3 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design, Studio Art, and Printmaking\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nHistory of Art, Design, and Technology\n\nDiscover the historical context of your work as you study the history of art, and the evolution of design and technology.\n\nSenior Capstone and Exhibition\n\nPut it all together in these two advanced classes. Through a series of weekly critiques, an intense design team based project, and an individual exhibition, you will supplement and refine your body of work in preparation for taking your place within the design community."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B52FB45-F692-4DC2-83C2-582DBEFC3829",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "52B14A78-5240-4531-8AA9-6EFDF327A100",
+  "verticalSpacing": 0
+}

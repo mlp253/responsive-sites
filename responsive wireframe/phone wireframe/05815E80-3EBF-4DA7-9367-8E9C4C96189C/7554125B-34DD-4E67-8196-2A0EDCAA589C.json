@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7554125B-34DD-4E67-8196-2A0EDCAA589C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56594507-D608-4F39-B213-945C25524429",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2127F65B-090B-4193-8DA0-B80463A831FF",
+    "height": 81,
+    "width": 354,
+    "x": 0,
+    "y": 521
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : CATEGORY BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC2016F4-353C-4922-B157-019E27B4F33F",
+      "overrideName": "F69D037A-3833-4E13-93D2-228D1A7F9116_stringValue",
+      "value": "DIRECTORS NOTES"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "633AAF8A-E5FF-4156-93C3-D0AA65BB2520",
+      "overrideName": "72EB57BD-3C07-400A-861B-65EC541A9EE7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D5121C0-E122-4225-B416-FEFC13405A09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC237D09-4617-421E-93F5-7A299009B542",
+  "verticalSpacing": 0
+}

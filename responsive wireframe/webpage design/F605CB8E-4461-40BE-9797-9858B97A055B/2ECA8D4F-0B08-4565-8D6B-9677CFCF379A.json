@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ECA8D4F-0B08-4565-8D6B-9677CFCF379A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B1646B5-0C67-4FCF-81C9-DCCF0C7CB804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC2F66DF-B7E4-4104-9EA9-68A0BA749A43",
+    "height": 47.04929553896216,
+    "width": 253,
+    "x": 1052,
+    "y": 626.6565746253281
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51DF2C3D-C6F9-46E5-A214-8D82B67E102F",
+      "overrideName": "6186C000-F304-40CB-9546-C8D88D78941B_stringValue",
+      "value": "Becca Murtaugh"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCAC81B8-52BA-4AEC-9396-A02F83648C23",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "188A8D83-30BC-46DA-AA15-54EDA4A85478",
+  "verticalSpacing": 0
+}

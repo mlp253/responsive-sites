@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8069455A-0681-4BF0-9D9D-BEF9BB10E618",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CE927F9-42B2-4A6D-AB95-56C9D75DC403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE252856-3B87-48A4-AB96-3C1DD501646A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FD044B8-7263-450C-B665-2F78F2EE03FE",
+    "height": 1820.871661299933,
+    "width": 1440,
+    "x": 17574,
+    "y": 1648.252373054179
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F6A0BE2B-8F5D-4352-8BC6-4F195153ABD1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1FBA2BB3-DBAE-44B5-850B-C6B9DADF3176"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9360D15-569F-4D4A-8C5D-CEDA6B534011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66E24724-A640-4ED9-9EBA-B08858ACA100"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9439FBF8-8C1F-4066-A5EF-45E7186F1C09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BE2B73E-76A0-410D-9C41-6CA650108C5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D73DACA9-7C1B-4195-90B0-CF1CC29A9360"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "267D1A94-7B82-490E-889C-BDBA2B56AD56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33909267-6CE2-4016-AF17-5B58433C61CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AAD872A-CC97-4912-B4FF-67843391E18A"
+    },
+    {
+      "class": "rectangle",
+      "id": "31B550FC-C27D-46BF-9030-A75FB83B3288"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3290897-22C4-412E-B7BE-4B9F3B7816EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03B34DE3-2341-4DB2-B705-6501A875C65D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C881123-FFFA-4DB7-AC28-337A7F3E0E7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C85BF60A-FE95-4265-9B97-D9FE9E9AB918"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "513617FB-24C5-48C7-90BD-0C5C39DDD0AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86409CE1-93B0-4A5A-A67E-264CD6C7AFFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84430ABE-745B-4FB7-836D-0BBC79D148A1"
+    },
+    {
+      "class": "group",
+      "id": "73C20237-1151-4C4D-925D-B61471BDFB3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D476EE6A-C298-4B3B-80C6-AB24C0AB117B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAAD80FB-7D71-4F94-8EE6-72895207F382"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA5EA3FC-62D9-43EA-971D-E6430A61DF6E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F533EB0-39D4-4CED-90CD-1A535433BE3B"
+    }
+  ],
+  "name": "VCD Student Spotlights Peter Stranberg Copy 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16FF2042-8774-4B0D-8C8C-12244DB72451",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8338952A-0766-4500-BEFB-5B08ADD50921",
+    "guides": [
+      239,
+      455
+    ]
+  }
+}

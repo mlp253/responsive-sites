@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93437E84-77EE-49EB-91D0-5C913D1AE3DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AD44237-B797-4B97-BD9E-01528260427F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "843C0425-1F38-4CEB-AD59-3F0630F8B9B4",
+    "height": 47.04929553896204,
+    "width": 253,
+    "x": 1052,
+    "y": 1105.157920744988
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TEXT BOX  FULL  Color Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1A2653B-CE94-4F39-BA9E-2F14CE325F2A",
+      "overrideName": "D372290A-ED23-4BD8-8698-C6E880CFF1FC_stringValue",
+      "value": "Ginny Stovel"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "163D06F5-0CDB-498E-9313-C5966D84DE50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9602D7B1-8093-4C10-8DE3-F463BE1D888A",
+  "verticalSpacing": 0
+}

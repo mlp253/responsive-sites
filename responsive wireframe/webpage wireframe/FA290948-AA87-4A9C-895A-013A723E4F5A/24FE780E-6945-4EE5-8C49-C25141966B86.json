@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24FE780E-6945-4EE5-8C49-C25141966B86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5058AF3-A5B7-4AF2-B794-C873EB6EA7E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF09BBF6-F9ED-4252-8749-F9A6FD5FDAE0",
+    "height": 51,
+    "width": 51,
+    "x": 267,
+    "y": 1184.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : EXIT BOC",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62783185-B1FE-4C02-B72F-49B74EF8F346",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1CD19A5F-AB4E-4409-9C1A-462720883FC0",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

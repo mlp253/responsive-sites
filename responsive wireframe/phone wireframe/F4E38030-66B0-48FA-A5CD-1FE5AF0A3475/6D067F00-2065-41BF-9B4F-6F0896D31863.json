@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D067F00-2065-41BF-9B4F-6F0896D31863",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27033B18-A414-41D4-B08B-62213CFC386C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B97DB54-1710-4776-913A-6137B28A875E",
+    "height": 676,
+    "width": 187,
+    "x": 120,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E9FBB94-9ACF-465D-89CC-190D6386ECEA",
+      "overrideName": "FB5A0449-EF05-45C2-8865-2A0D72FBD4D5_stringValue",
+      "value": "What will I study?\n\nDrawing, Typography, Basic Design, Color Design, and 3D Design\n\nThese introductory courses serve as your foundation for advanced study. Learn to depict the size and shape of objects, the basic design concepts for 2 and 3 dimensional works, and how to manipulate letterform for communicative purposes.\n\nVisual Communication Design, Studio Art, and Printmaking\n\nBegin the lifelong process of refining your creative and perceptual problem solving skills through this series of core classes. You will combine theoretical study with applied projects to develop a visual and verbal vocabulary for the creation of complex, yet cohesive visual systems.\n\nComputer Graphics, Color Management, and Electronic Prepress Production\n\nEnhance your computer graphics and technical skills as you learn to professionally produce and edit text, graphic and continuous tone photographic images using industry standard software applications.\n\nWeb Page and Digital Media Design\n\nPlan, design, produce, and deliver logical, but visually effective web pages and digital media using current industry software.\n\nHistory of Art, Design, and Technology\n\nDiscover the historical context of your work as you study the history of art, and the evolution of design and technology.\n\nSenior Capstone and Exhibition\n\nPut it all together in these two advanced classes. Through a series of weekly critiques, an intense design team based project, and an individual exhibition, you will supplement and refine your body of work in preparation for taking your place within the design community."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC8F8140-933E-41FD-AC8A-40034B657782",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAE3CCFD-6988-4924-B1D0-5044EF9EC247",
+  "verticalSpacing": 0
+}

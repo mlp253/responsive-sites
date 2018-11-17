@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19D41B8C-BB60-440E-BFA7-9C3EF969FEC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 648,
+    "width": 187,
+    "x": 120,
+    "y": 83
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E9FBB94-9ACF-465D-89CC-190D6386ECEA",
+      "overrideName": "FB5A0449-EF05-45C2-8865-2A0D72FBD4D5_stringValue",
+      "value": "BFA in Visual Communication Design\nThe Department of Engineering and Design and the Department of Art offer an intercollegiate Visual Communication Design program founded on four major concerns: developing the highest levels of individual creative performance and professional education; providing courses for all students which develop ability in both technical visual communications, as well as important core skills in the area of fine art; giving students a greater cultural and historical understanding and aesthetic appreciation of the function of design in the arts and in the world around them; and functioning as dual centers of emphasis and resource for the visual arts, visual communication and technology in the cultural activities of both the university community and the community at large.\n\nBoth departments are committed to working together to give students access to current technologies in the area of visual communication design, as well as experience in developing the necessary visual skills provided by studio art areas such as drawing, painting and sculpture.\n\nThe program ends with a three quarter senior year intensive studio experience for the preparation of portfolios for job placement or graduate school application. This includes midterm faculty review of student work, quarterly outside professional review and a final exhibition as the completion of the student portfolio of work.\n\nPrior to declaring the BFA major, students must apply to the program by submitting a portfolio and academic transcripts. Application is recommended at the end of the sophomore year to help ensure that appropriate junior year courses are selected. Students need not be in the BFA to take DESN or ART classes, with the exception of the senior year three quarter class DESN/ART 470. This course requires previous acceptance into the BFA degree program."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAE3CCFD-6988-4924-B1D0-5044EF9EC247",
+  "verticalSpacing": 0
+}

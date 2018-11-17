@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D271F0D0-1415-4B98-B3F8-4D1B3B36210A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F664E4C-B8D3-4D8D-89A4-80F190FF1D29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "200CA3D1-6305-4099-A2F9-CDD98A2B9EF7",
+    "height": 444.4656855170057,
+    "width": 1121,
+    "x": 160,
+    "y": 603.6324512764731
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TITLE PARAGRAPH Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B415917A-2411-431C-99A2-C053753D5A0C",
+      "overrideName": "35DB9093-49FB-4269-AA3F-98F650CFC283_stringValue",
+      "value": "Ginny Stovel is a first year MA candidate in Art History and is jointly pursuing the Curatorial Diploma. In the spring of 2018, she completed a Bachelor of Fine Arts with a specialization in painting and a minor in history at the University of Ottawa. Her undergraduate thesis work centered around the canon of traditional European painting. Her painting questioned the differing roles of women and men in the narratives and subverted the patriarchal themes. She will continue to deepen this line of research in her graduate work along with expanding her curatorial portfolio. Ginny co-curated her first exhibit, [working space], during her fourth year and participated in and presented her work in two other exhibits, sk(in) and VOIX, with members of her graduating class."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6F2AADD-99B9-49E1-9B8F-91C0A793B45F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "239814E7-86EA-4E08-8169-35D98F028352",
+  "verticalSpacing": 0
+}

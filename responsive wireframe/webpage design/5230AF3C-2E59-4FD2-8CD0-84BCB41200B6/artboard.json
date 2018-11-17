@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7D1AD012-978E-43BB-8397-72EA1BE3B5F8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5230AF3C-2E59-4FD2-8CD0-84BCB41200B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D43F1B5-5B70-45D3-AA62-DB18274424E7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D6E0944-F5CF-463E-971D-D23B2E0E58A8",
+    "height": 2750,
+    "width": 1440,
+    "x": 4779,
+    "y": -543
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "630137CA-3BC3-46DB-B47A-3232B13B890C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EAA28E54-6C02-4941-87B1-5CFE3EF8C677"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B21A5D7-8554-4BCB-AE0B-35807AE1D03D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468A4358-EA55-41EA-9B0C-B15587608F76"
+    },
+    {
+      "class": "rectangle",
+      "id": "4544584C-48DB-488C-B462-3D3029DC6201"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85A01E21-587E-486B-92CD-968AE463BB8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F99D3B5B-05A9-4FF1-9803-E1AC11C30142"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53CCA08E-E3FF-419B-817D-1EDB084A6913"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEA3543C-E7E6-488E-84B9-293C93F5C5A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFB9862E-CC5A-49A9-A369-8D3FE9792B51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE6CE1C5-5987-4B1F-8C91-C18826E7689F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CEB7B7B-5593-491A-9234-01283BE4B063"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC589001-700D-4135-9861-99D5B731134F"
+    },
+    {
+      "class": "group",
+      "id": "5A2154C6-7A12-474E-ABBB-90522D20AA75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8600B692-05CA-4496-9F14-75BC4E1905C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AA724AC-73B0-4852-944D-66DD6F1228E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5A5AD38-4CD9-4265-B973-ADB76B8B91DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCFA2C33-29AB-47CC-B2F8-890D9918D5A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13BE70DB-DECF-4BE8-9780-6A199C3FC5EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B8DA4E9-8A92-46C3-8BDD-75AAD0E4DBAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "295D708B-6970-40F6-84CF-A63A322B75EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A26CFF7-F152-4FDF-A47B-5EAA09807B09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "136EE1BE-C288-4591-8D41-85263E366575"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45AED6BD-99A6-4FFE-A38B-A1805049227B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B861BC60-4768-4945-A098-7CCE5C61C853"
+    }
+  ],
+  "name": "Degree Options: BA ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD0015AE-D8A5-4019-899C-AE09FECC5EE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52BF7048-4AF0-422F-8A67-8D0AB67B0656",
+    "guides": [
+      567,
+      455
+    ]
+  }
+}

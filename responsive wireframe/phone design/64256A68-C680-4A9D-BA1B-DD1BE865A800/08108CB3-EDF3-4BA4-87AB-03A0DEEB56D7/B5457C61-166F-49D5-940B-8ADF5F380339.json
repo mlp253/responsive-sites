@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5457C61-166F-49D5-940B-8ADF5F380339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECB5D98E-C4F9-48B9-A4B5-3BFA9880176F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D579F16C-713F-47B4-9F30-D706EA5CDA96",
+    "height": 194,
+    "width": 275,
+    "x": 6,
+    "y": 129
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "P MOLECULE : MAIN TXT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB5B02E0-2934-4428-84B9-CE8251B56EA6",
+      "overrideName": "DBFC9001-DA9C-49A6-B82A-C1D43229D29A_stringValue",
+      "value": "Christopher Davidson is a second-year candidate in both the MA in Art History and GDip in Curatorial Studies programmes at Carleton University. His independent curatorial practice and art historical research are focused on Canadian and International modern and contemporary photography. Since graduating from the Master of Fine Arts (Photography) programme at the Nova Scotia College of Art and Design in 1998, Christopher has held prominent curatorial, teaching and administrative positions in public and private institutions across Canada, as well as in New York and Los Angeles. He has published his critical writing in North America, Europe and Asia, and continues to carry out research on Canadian art historiographies, gender/queer/masculinity studies, and lens-based art. Christopher was a founding board member of Festival X – the Ottawa Photography Festival and is concurrently curating in the Canadian Art collection at the National Gallery of Canada."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CFF307E0-CA9F-496A-8F87-4306C715BC16",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B36AACDD-21DB-44A7-9852-9FB622EE5A9B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "578BDE23-9807-4BEB-8B37-78379983FBCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DE77665-834C-4F02-A858-34F9E196F272",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C93B2CDB-112D-445C-AF0C-814B5052DC95",
+    "height": 126,
+    "width": 393,
+    "x": 976,
+    "y": 999
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : WHAT CAN I DO WITH MY DEGREE Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "46D92758-B901-4463-B920-EF74A40D92F1/8F5ABF35-B327-4BBA-89CE-82F92B1ACC18_stringValue",
+      "value": "What could I do with my degree?\n\nArt Director\nDesigner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF7CD603-B2E5-42B1-B5D5-15D99669A74B",
+      "overrideName": "94A82B55-BC9F-4A57-B980-327D36D7973F_stringValue",
+      "value": "What could I do with my degree?\n\nArt Director\nDesigner"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BE0433D-2273-417B-83C7-979BA111519F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE2CE081-E43C-4285-895B-068D99E55388",
+  "verticalSpacing": 0
+}

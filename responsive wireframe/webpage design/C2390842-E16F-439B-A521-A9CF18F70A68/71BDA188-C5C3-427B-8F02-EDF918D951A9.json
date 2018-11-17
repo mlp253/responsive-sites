@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71BDA188-C5C3-427B-8F02-EDF918D951A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34E2C8E0-D035-44BC-957F-9563786952FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "808F0694-92B4-457C-B191-E13792824292",
+    "height": 639,
+    "width": 711,
+    "x": 72,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : CALENDAR",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3A0861D-0AA0-4C92-B724-F22E169AB4E6",
+      "overrideName": "37FDC0E1-CD9B-4E51-90D5-1671FF779CAA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/434a0c9b0de354fa0171980d4b22136c8f76ec7d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "084F4811-FDBA-49AA-8170-D83EE3D7757D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1614879B-45CE-4243-9F27-C53FDBCD4277",
+  "verticalSpacing": 0
+}

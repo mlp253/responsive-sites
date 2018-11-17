@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7B1E4BF-40D1-4FF6-922C-8A5D2409F0AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "794DB3E2-1F80-42AB-9B02-E9CCCD343532",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80A8745C-CD20-4779-A6CA-8C7B0E34AC6F",
+    "height": 501,
+    "width": 1073,
+    "x": 138,
+    "y": 1006.13289080276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MOLECULE : CONTACT BOX",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC6FDD0D-CFF0-450B-9B7C-7832672DC0CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5992AE04-7499-4FD4-BB12-3CFCDB3A4CA7",
+  "verticalSpacing": 0
+}

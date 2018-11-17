@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6AB5CA78-FBB1-4493-8707-747C461E1A5A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BCE29F6-58A1-49D7-B1E1-9FD57565E7B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C00A47C9-8295-40EF-BA41-F42D25DAC2EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B55A777D-B216-4B76-9F0D-2AB29A68C787",
+    "height": 2246,
+    "width": 1440,
+    "x": 24023,
+    "y": 10321
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11E31E77-B0BB-4ADF-B658-8E585E841644",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C98F81C9-A13F-4C82-9FC8-2E709A0AF375"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF734D02-5A89-48C6-92D8-AAD8E26C5917"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B606AAF-556D-4711-81A8-00CDE20FD1B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A521990-0625-4F21-8289-509126E25255"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD352D58-49D2-4984-8542-E7DB5B927947"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA6F0F17-8BC3-4219-BF79-32EC5D2AF1CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CB79087-7867-466F-8616-87F4C86B65A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5768CAD3-2D27-494F-8410-B1E0AB58362F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E926581-B15A-482D-9122-535F59994F1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D79C28A2-4606-4573-AF4A-E005EFAC7297"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98325899-043C-479F-B19B-3A0F7AF592F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F61275C3-1862-40D9-A28A-5C39B632D447"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC2A59E1-981E-4971-B20B-C66E11DC0C43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AC24415-BB26-4437-90EB-C7A47E88A49A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E7C32E4-0C17-4679-BACC-FFB75E19C889"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF3AB6EB-694A-48AD-AFF3-E40D92DAAD47"
+    },
+    {
+      "class": "group",
+      "id": "011C3B29-54BC-4D4D-B51E-6BFFBBD18C56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98051FE9-E3DE-4956-AF66-1647D123AC75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE33D4CF-A396-434F-BF43-5579C24469C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4ADF3BDE-5189-4067-B0D1-367D863F514A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "269D6DDF-9508-492C-BCDB-F35C369B3A02"
+    }
+  ],
+  "name": "Degree Options USER. IMAGE",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1800,
+    "name": "laptop mac",
+    "offersLandscapeVariant": 0,
+    "width": 2880
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C4C5840-C2F5-455B-8546-21BE3676EF9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3B61D28F-1D1D-48B3-B42F-A631A1B33B3D",
+    "guides": [
+      567,
+      1019
+    ]
+  }
+}

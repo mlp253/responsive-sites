@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12205353-2B96-480A-B8D0-81995976CE81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF7BB840-9A09-44BB-B256-B7FB931741F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80A2F846-FCE4-438D-BD83-AE849F14859C",
+    "height": 456,
+    "width": 502,
+    "x": 799,
+    "y": 523.1328908027604
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "W MOLECULE : TITLE PARAGRAPH Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA9519EC-DFD2-45FF-B40A-03EAD74BCA1C",
+      "overrideName": "CAACF83F-D859-4090-8E12-AB61429D8129_stringValue",
+      "value": "Peter Stranberg is a first year MA student in the Art History Department who is focusing his research on the history and theory of architecture. Specifically, his research will aim to answer questions about the evolution of curling (as a sport and a social experience); and the role that architecture has played in this evolution. He completed his undergraduate degree in History and Theory of Architecture from Carleton, with a term abroad at the University of Edinburgh. Peter has worked as an interpreter in the Natural Heritage Education department of Murphys Point Provincial Park for the past two summers, gaining experience in research and public engagement."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EB7AFEF-29E7-44E3-94FE-1619353D0246",
+      "overrideName": "452273F4-B5A9-43B7-ABB6-64E0856CBCA3_stringValue",
+      "value": "The Art Building is located along Stevens Way near the north edge of the University of Washington Seattle campus. Commuter Services has information about getting to campus and parking.\n\nThe School of Art + Art History + Design also has the CMA Building as well as the Sand Point Studios and Gallery. There is a basic map (PDF) showing the approximate location of all three facilities. Another map (PDF) shows the location of the Sand Point building adjacent to Magnuson Park."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4898F4EB-BDE9-4036-B2B0-CB03D9FDC8CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "490CD084-F278-41E0-B75F-A48B5C3DF4D0",
+  "verticalSpacing": 0
+}
