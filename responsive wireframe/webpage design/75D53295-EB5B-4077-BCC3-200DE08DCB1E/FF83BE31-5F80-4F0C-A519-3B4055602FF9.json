@@ -65,26 +65,6 @@
   },
   "symbolID": "04A5BE66-6C61-4641-972A-74620EC7DE8A",
   "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "38700ABD-6BE7-4E6A-BE2C-998185BD652C",
-      "transition": 0
-    }
   },
   "verticalSpacing": 0
 }

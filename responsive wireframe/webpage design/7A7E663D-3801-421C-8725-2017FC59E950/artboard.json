@@ -60,6 +60,10 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "151161C4-62F6-46EB-9F73-B5C347E8540C"
+    },
+    {
       "class": "symbolInstance",
       "id": "66B7CE62-B946-471F-8FAF-9A3003D29AFD"
     },
